@@ -1,0 +1,4006 @@
+{
+  "train": [
+    {
+      "radiograph": "Radiographs/89.JPG",
+      "segmentation": "Segmentation/teeth_mask/89.jpg"
+    },
+    {
+      "radiograph": "Radiographs/223.JPG",
+      "segmentation": "Segmentation/teeth_mask/223.jpg"
+    },
+    {
+      "radiograph": "Radiographs/20.JPG",
+      "segmentation": "Segmentation/teeth_mask/20.jpg"
+    },
+    {
+      "radiograph": "Radiographs/454.JPG",
+      "segmentation": "Segmentation/teeth_mask/454.jpg"
+    },
+    {
+      "radiograph": "Radiographs/96.JPG",
+      "segmentation": "Segmentation/teeth_mask/96.jpg"
+    },
+    {
+      "radiograph": "Radiographs/200.JPG",
+      "segmentation": "Segmentation/teeth_mask/200.jpg"
+    },
+    {
+      "radiograph": "Radiographs/972.JPG",
+      "segmentation": "Segmentation/teeth_mask/972.jpg"
+    },
+    {
+      "radiograph": "Radiographs/138.JPG",
+      "segmentation": "Segmentation/teeth_mask/138.jpg"
+    },
+    {
+      "radiograph": "Radiographs/787.JPG",
+      "segmentation": "Segmentation/teeth_mask/787.jpg"
+    },
+    {
+      "radiograph": "Radiographs/345.JPG",
+      "segmentation": "Segmentation/teeth_mask/345.jpg"
+    },
+    {
+      "radiograph": "Radiographs/994.JPG",
+      "segmentation": "Segmentation/teeth_mask/994.jpg"
+    },
+    {
+      "radiograph": "Radiographs/552.JPG",
+      "segmentation": "Segmentation/teeth_mask/552.jpg"
+    },
+    {
+      "radiograph": "Radiographs/786.JPG",
+      "segmentation": "Segmentation/teeth_mask/786.jpg"
+    },
+    {
+      "radiograph": "Radiographs/277.JPG",
+      "segmentation": "Segmentation/teeth_mask/277.jpg"
+    },
+    {
+      "radiograph": "Radiographs/644.JPG",
+      "segmentation": "Segmentation/teeth_mask/644.jpg"
+    },
+    {
+      "radiograph": "Radiographs/810.JPG",
+      "segmentation": "Segmentation/teeth_mask/810.jpg"
+    },
+    {
+      "radiograph": "Radiographs/586.JPG",
+      "segmentation": "Segmentation/teeth_mask/586.jpg"
+    },
+    {
+      "radiograph": "Radiographs/538.JPG",
+      "segmentation": "Segmentation/teeth_mask/538.jpg"
+    },
+    {
+      "radiograph": "Radiographs/848.JPG",
+      "segmentation": "Segmentation/teeth_mask/848.jpg"
+    },
+    {
+      "radiograph": "Radiographs/524.JPG",
+      "segmentation": "Segmentation/teeth_mask/524.jpg"
+    },
+    {
+      "radiograph": "Radiographs/174.JPG",
+      "segmentation": "Segmentation/teeth_mask/174.jpg"
+    },
+    {
+      "radiograph": "Radiographs/507.JPG",
+      "segmentation": "Segmentation/teeth_mask/507.jpg"
+    },
+    {
+      "radiograph": "Radiographs/198.JPG",
+      "segmentation": "Segmentation/teeth_mask/198.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1032.JPG",
+      "segmentation": "Segmentation/teeth_mask/1032.jpg"
+    },
+    {
+      "radiograph": "Radiographs/913.JPG",
+      "segmentation": "Segmentation/teeth_mask/913.jpg"
+    },
+    {
+      "radiograph": "Radiographs/176.JPG",
+      "segmentation": "Segmentation/teeth_mask/176.jpg"
+    },
+    {
+      "radiograph": "Radiographs/626.JPG",
+      "segmentation": "Segmentation/teeth_mask/626.jpg"
+    },
+    {
+      "radiograph": "Radiographs/120.JPG",
+      "segmentation": "Segmentation/teeth_mask/120.jpg"
+    },
+    {
+      "radiograph": "Radiographs/879.JPG",
+      "segmentation": "Segmentation/teeth_mask/879.jpg"
+    },
+    {
+      "radiograph": "Radiographs/596.JPG",
+      "segmentation": "Segmentation/teeth_mask/596.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1004.JPG",
+      "segmentation": "Segmentation/teeth_mask/1004.jpg"
+    },
+    {
+      "radiograph": "Radiographs/928.JPG",
+      "segmentation": "Segmentation/teeth_mask/928.jpg"
+    },
+    {
+      "radiograph": "Radiographs/657.JPG",
+      "segmentation": "Segmentation/teeth_mask/657.jpg"
+    },
+    {
+      "radiograph": "Radiographs/472.JPG",
+      "segmentation": "Segmentation/teeth_mask/472.jpg"
+    },
+    {
+      "radiograph": "Radiographs/744.JPG",
+      "segmentation": "Segmentation/teeth_mask/744.jpg"
+    },
+    {
+      "radiograph": "Radiographs/241.JPG",
+      "segmentation": "Segmentation/teeth_mask/241.jpg"
+    },
+    {
+      "radiograph": "Radiographs/766.JPG",
+      "segmentation": "Segmentation/teeth_mask/766.jpg"
+    },
+    {
+      "radiograph": "Radiographs/645.JPG",
+      "segmentation": "Segmentation/teeth_mask/645.jpg"
+    },
+    {
+      "radiograph": "Radiographs/595.JPG",
+      "segmentation": "Segmentation/teeth_mask/595.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1017.JPG",
+      "segmentation": "Segmentation/teeth_mask/1017.jpg"
+    },
+    {
+      "radiograph": "Radiographs/756.JPG",
+      "segmentation": "Segmentation/teeth_mask/756.jpg"
+    },
+    {
+      "radiograph": "Radiographs/917.JPG",
+      "segmentation": "Segmentation/teeth_mask/917.jpg"
+    },
+    {
+      "radiograph": "Radiographs/539.JPG",
+      "segmentation": "Segmentation/teeth_mask/539.jpg"
+    },
+    {
+      "radiograph": "Radiographs/597.JPG",
+      "segmentation": "Segmentation/teeth_mask/597.jpg"
+    },
+    {
+      "radiograph": "Radiographs/192.JPG",
+      "segmentation": "Segmentation/teeth_mask/192.jpg"
+    },
+    {
+      "radiograph": "Radiographs/24.JPG",
+      "segmentation": "Segmentation/teeth_mask/24.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1002.JPG",
+      "segmentation": "Segmentation/teeth_mask/1002.jpg"
+    },
+    {
+      "radiograph": "Radiographs/476.JPG",
+      "segmentation": "Segmentation/teeth_mask/476.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1020.JPG",
+      "segmentation": "Segmentation/teeth_mask/1020.jpg"
+    },
+    {
+      "radiograph": "Radiographs/26.JPG",
+      "segmentation": "Segmentation/teeth_mask/26.jpg"
+    },
+    {
+      "radiograph": "Radiographs/123.JPG",
+      "segmentation": "Segmentation/teeth_mask/123.jpg"
+    },
+    {
+      "radiograph": "Radiographs/447.JPG",
+      "segmentation": "Segmentation/teeth_mask/447.jpg"
+    },
+    {
+      "radiograph": "Radiographs/344.JPG",
+      "segmentation": "Segmentation/teeth_mask/344.jpg"
+    },
+    {
+      "radiograph": "Radiographs/373.JPG",
+      "segmentation": "Segmentation/teeth_mask/373.jpg"
+    },
+    {
+      "radiograph": "Radiographs/240.JPG",
+      "segmentation": "Segmentation/teeth_mask/240.jpg"
+    },
+    {
+      "radiograph": "Radiographs/682.JPG",
+      "segmentation": "Segmentation/teeth_mask/682.jpg"
+    },
+    {
+      "radiograph": "Radiographs/305.JPG",
+      "segmentation": "Segmentation/teeth_mask/305.jpg"
+    },
+    {
+      "radiograph": "Radiographs/664.JPG",
+      "segmentation": "Segmentation/teeth_mask/664.jpg"
+    },
+    {
+      "radiograph": "Radiographs/82.JPG",
+      "segmentation": "Segmentation/teeth_mask/82.jpg"
+    },
+    {
+      "radiograph": "Radiographs/278.JPG",
+      "segmentation": "Segmentation/teeth_mask/278.jpg"
+    },
+    {
+      "radiograph": "Radiographs/806.JPG",
+      "segmentation": "Segmentation/teeth_mask/806.jpg"
+    },
+    {
+      "radiograph": "Radiographs/70.JPG",
+      "segmentation": "Segmentation/teeth_mask/70.jpg"
+    },
+    {
+      "radiograph": "Radiographs/814.JPG",
+      "segmentation": "Segmentation/teeth_mask/814.jpg"
+    },
+    {
+      "radiograph": "Radiographs/511.JPG",
+      "segmentation": "Segmentation/teeth_mask/511.jpg"
+    },
+    {
+      "radiograph": "Radiographs/399.JPG",
+      "segmentation": "Segmentation/teeth_mask/399.jpg"
+    },
+    {
+      "radiograph": "Radiographs/846.JPG",
+      "segmentation": "Segmentation/teeth_mask/846.jpg"
+    },
+    {
+      "radiograph": "Radiographs/281.JPG",
+      "segmentation": "Segmentation/teeth_mask/281.jpg"
+    },
+    {
+      "radiograph": "Radiographs/646.JPG",
+      "segmentation": "Segmentation/teeth_mask/646.jpg"
+    },
+    {
+      "radiograph": "Radiographs/956.JPG",
+      "segmentation": "Segmentation/teeth_mask/956.jpg"
+    },
+    {
+      "radiograph": "Radiographs/605.JPG",
+      "segmentation": "Segmentation/teeth_mask/605.jpg"
+    },
+    {
+      "radiograph": "Radiographs/315.JPG",
+      "segmentation": "Segmentation/teeth_mask/315.jpg"
+    },
+    {
+      "radiograph": "Radiographs/249.JPG",
+      "segmentation": "Segmentation/teeth_mask/249.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1013.JPG",
+      "segmentation": "Segmentation/teeth_mask/1013.jpg"
+    },
+    {
+      "radiograph": "Radiographs/461.JPG",
+      "segmentation": "Segmentation/teeth_mask/461.jpg"
+    },
+    {
+      "radiograph": "Radiographs/284.JPG",
+      "segmentation": "Segmentation/teeth_mask/284.jpg"
+    },
+    {
+      "radiograph": "Radiographs/142.JPG",
+      "segmentation": "Segmentation/teeth_mask/142.jpg"
+    },
+    {
+      "radiograph": "Radiographs/559.JPG",
+      "segmentation": "Segmentation/teeth_mask/559.jpg"
+    },
+    {
+      "radiograph": "Radiographs/222.JPG",
+      "segmentation": "Segmentation/teeth_mask/222.jpg"
+    },
+    {
+      "radiograph": "Radiographs/333.JPG",
+      "segmentation": "Segmentation/teeth_mask/333.jpg"
+    },
+    {
+      "radiograph": "Radiographs/514.JPG",
+      "segmentation": "Segmentation/teeth_mask/514.jpg"
+    },
+    {
+      "radiograph": "Radiographs/37.JPG",
+      "segmentation": "Segmentation/teeth_mask/37.jpg"
+    },
+    {
+      "radiograph": "Radiographs/701.JPG",
+      "segmentation": "Segmentation/teeth_mask/701.jpg"
+    },
+    {
+      "radiograph": "Radiographs/36.JPG",
+      "segmentation": "Segmentation/teeth_mask/36.jpg"
+    },
+    {
+      "radiograph": "Radiographs/487.JPG",
+      "segmentation": "Segmentation/teeth_mask/487.jpg"
+    },
+    {
+      "radiograph": "Radiographs/293.JPG",
+      "segmentation": "Segmentation/teeth_mask/293.jpg"
+    },
+    {
+      "radiograph": "Radiographs/853.JPG",
+      "segmentation": "Segmentation/teeth_mask/853.jpg"
+    },
+    {
+      "radiograph": "Radiographs/323.JPG",
+      "segmentation": "Segmentation/teeth_mask/323.jpg"
+    },
+    {
+      "radiograph": "Radiographs/488.JPG",
+      "segmentation": "Segmentation/teeth_mask/488.jpg"
+    },
+    {
+      "radiograph": "Radiographs/905.JPG",
+      "segmentation": "Segmentation/teeth_mask/905.jpg"
+    },
+    {
+      "radiograph": "Radiographs/774.JPG",
+      "segmentation": "Segmentation/teeth_mask/774.jpg"
+    },
+    {
+      "radiograph": "Radiographs/572.JPG",
+      "segmentation": "Segmentation/teeth_mask/572.jpg"
+    },
+    {
+      "radiograph": "Radiographs/23.JPG",
+      "segmentation": "Segmentation/teeth_mask/23.jpg"
+    },
+    {
+      "radiograph": "Radiographs/582.JPG",
+      "segmentation": "Segmentation/teeth_mask/582.jpg"
+    },
+    {
+      "radiograph": "Radiographs/647.JPG",
+      "segmentation": "Segmentation/teeth_mask/647.jpg"
+    },
+    {
+      "radiograph": "Radiographs/458.JPG",
+      "segmentation": "Segmentation/teeth_mask/458.jpg"
+    },
+    {
+      "radiograph": "Radiographs/850.JPG",
+      "segmentation": "Segmentation/teeth_mask/850.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1010.JPG",
+      "segmentation": "Segmentation/teeth_mask/1010.jpg"
+    },
+    {
+      "radiograph": "Radiographs/247.JPG",
+      "segmentation": "Segmentation/teeth_mask/247.jpg"
+    },
+    {
+      "radiograph": "Radiographs/46.JPG",
+      "segmentation": "Segmentation/teeth_mask/46.jpg"
+    },
+    {
+      "radiograph": "Radiographs/560.JPG",
+      "segmentation": "Segmentation/teeth_mask/560.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1035.JPG",
+      "segmentation": "Segmentation/teeth_mask/1035.jpg"
+    },
+    {
+      "radiograph": "Radiographs/602.JPG",
+      "segmentation": "Segmentation/teeth_mask/602.jpg"
+    },
+    {
+      "radiograph": "Radiographs/440.JPG",
+      "segmentation": "Segmentation/teeth_mask/440.jpg"
+    },
+    {
+      "radiograph": "Radiographs/321.JPG",
+      "segmentation": "Segmentation/teeth_mask/321.jpg"
+    },
+    {
+      "radiograph": "Radiographs/477.JPG",
+      "segmentation": "Segmentation/teeth_mask/477.jpg"
+    },
+    {
+      "radiograph": "Radiographs/783.JPG",
+      "segmentation": "Segmentation/teeth_mask/783.jpg"
+    },
+    {
+      "radiograph": "Radiographs/410.JPG",
+      "segmentation": "Segmentation/teeth_mask/410.jpg"
+    },
+    {
+      "radiograph": "Radiographs/738.JPG",
+      "segmentation": "Segmentation/teeth_mask/738.jpg"
+    },
+    {
+      "radiograph": "Radiographs/437.JPG",
+      "segmentation": "Segmentation/teeth_mask/437.jpg"
+    },
+    {
+      "radiograph": "Radiographs/137.JPG",
+      "segmentation": "Segmentation/teeth_mask/137.jpg"
+    },
+    {
+      "radiograph": "Radiographs/563.JPG",
+      "segmentation": "Segmentation/teeth_mask/563.jpg"
+    },
+    {
+      "radiograph": "Radiographs/599.JPG",
+      "segmentation": "Segmentation/teeth_mask/599.jpg"
+    },
+    {
+      "radiograph": "Radiographs/573.JPG",
+      "segmentation": "Segmentation/teeth_mask/573.jpg"
+    },
+    {
+      "radiograph": "Radiographs/726.JPG",
+      "segmentation": "Segmentation/teeth_mask/726.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1044.JPG",
+      "segmentation": "Segmentation/teeth_mask/1044.jpg"
+    },
+    {
+      "radiograph": "Radiographs/891.JPG",
+      "segmentation": "Segmentation/teeth_mask/891.jpg"
+    },
+    {
+      "radiograph": "Radiographs/650.JPG",
+      "segmentation": "Segmentation/teeth_mask/650.jpg"
+    },
+    {
+      "radiograph": "Radiographs/866.JPG",
+      "segmentation": "Segmentation/teeth_mask/866.jpg"
+    },
+    {
+      "radiograph": "Radiographs/193.JPG",
+      "segmentation": "Segmentation/teeth_mask/193.jpg"
+    },
+    {
+      "radiograph": "Radiographs/423.JPG",
+      "segmentation": "Segmentation/teeth_mask/423.jpg"
+    },
+    {
+      "radiograph": "Radiographs/489.JPG",
+      "segmentation": "Segmentation/teeth_mask/489.jpg"
+    },
+    {
+      "radiograph": "Radiographs/933.JPG",
+      "segmentation": "Segmentation/teeth_mask/933.jpg"
+    },
+    {
+      "radiograph": "Radiographs/822.JPG",
+      "segmentation": "Segmentation/teeth_mask/822.jpg"
+    },
+    {
+      "radiograph": "Radiographs/194.JPG",
+      "segmentation": "Segmentation/teeth_mask/194.jpg"
+    },
+    {
+      "radiograph": "Radiographs/643.JPG",
+      "segmentation": "Segmentation/teeth_mask/643.jpg"
+    },
+    {
+      "radiograph": "Radiographs/361.JPG",
+      "segmentation": "Segmentation/teeth_mask/361.jpg"
+    },
+    {
+      "radiograph": "Radiographs/724.JPG",
+      "segmentation": "Segmentation/teeth_mask/724.jpg"
+    },
+    {
+      "radiograph": "Radiographs/49.JPG",
+      "segmentation": "Segmentation/teeth_mask/49.jpg"
+    },
+    {
+      "radiograph": "Radiographs/880.JPG",
+      "segmentation": "Segmentation/teeth_mask/880.jpg"
+    },
+    {
+      "radiograph": "Radiographs/367.JPG",
+      "segmentation": "Segmentation/teeth_mask/367.jpg"
+    },
+    {
+      "radiograph": "Radiographs/181.JPG",
+      "segmentation": "Segmentation/teeth_mask/181.jpg"
+    },
+    {
+      "radiograph": "Radiographs/187.JPG",
+      "segmentation": "Segmentation/teeth_mask/187.jpg"
+    },
+    {
+      "radiograph": "Radiographs/826.JPG",
+      "segmentation": "Segmentation/teeth_mask/826.jpg"
+    },
+    {
+      "radiograph": "Radiographs/434.JPG",
+      "segmentation": "Segmentation/teeth_mask/434.jpg"
+    },
+    {
+      "radiograph": "Radiographs/918.JPG",
+      "segmentation": "Segmentation/teeth_mask/918.jpg"
+    },
+    {
+      "radiograph": "Radiographs/992.JPG",
+      "segmentation": "Segmentation/teeth_mask/992.jpg"
+    },
+    {
+      "radiograph": "Radiographs/450.JPG",
+      "segmentation": "Segmentation/teeth_mask/450.jpg"
+    },
+    {
+      "radiograph": "Radiographs/617.JPG",
+      "segmentation": "Segmentation/teeth_mask/617.jpg"
+    },
+    {
+      "radiograph": "Radiographs/301.JPG",
+      "segmentation": "Segmentation/teeth_mask/301.jpg"
+    },
+    {
+      "radiograph": "Radiographs/355.JPG",
+      "segmentation": "Segmentation/teeth_mask/355.jpg"
+    },
+    {
+      "radiograph": "Radiographs/445.JPG",
+      "segmentation": "Segmentation/teeth_mask/445.jpg"
+    },
+    {
+      "radiograph": "Radiographs/213.JPG",
+      "segmentation": "Segmentation/teeth_mask/213.jpg"
+    },
+    {
+      "radiograph": "Radiographs/347.JPG",
+      "segmentation": "Segmentation/teeth_mask/347.jpg"
+    },
+    {
+      "radiograph": "Radiographs/330.JPG",
+      "segmentation": "Segmentation/teeth_mask/330.jpg"
+    },
+    {
+      "radiograph": "Radiographs/661.JPG",
+      "segmentation": "Segmentation/teeth_mask/661.jpg"
+    },
+    {
+      "radiograph": "Radiographs/653.JPG",
+      "segmentation": "Segmentation/teeth_mask/653.jpg"
+    },
+    {
+      "radiograph": "Radiographs/392.JPG",
+      "segmentation": "Segmentation/teeth_mask/392.jpg"
+    },
+    {
+      "radiograph": "Radiographs/127.JPG",
+      "segmentation": "Segmentation/teeth_mask/127.jpg"
+    },
+    {
+      "radiograph": "Radiographs/698.JPG",
+      "segmentation": "Segmentation/teeth_mask/698.jpg"
+    },
+    {
+      "radiograph": "Radiographs/841.JPG",
+      "segmentation": "Segmentation/teeth_mask/841.jpg"
+    },
+    {
+      "radiograph": "Radiographs/936.JPG",
+      "segmentation": "Segmentation/teeth_mask/936.jpg"
+    },
+    {
+      "radiograph": "Radiographs/699.JPG",
+      "segmentation": "Segmentation/teeth_mask/699.jpg"
+    },
+    {
+      "radiograph": "Radiographs/735.JPG",
+      "segmentation": "Segmentation/teeth_mask/735.jpg"
+    },
+    {
+      "radiograph": "Radiographs/282.JPG",
+      "segmentation": "Segmentation/teeth_mask/282.jpg"
+    },
+    {
+      "radiograph": "Radiographs/308.JPG",
+      "segmentation": "Segmentation/teeth_mask/308.jpg"
+    },
+    {
+      "radiograph": "Radiographs/148.JPG",
+      "segmentation": "Segmentation/teeth_mask/148.jpg"
+    },
+    {
+      "radiograph": "Radiographs/843.JPG",
+      "segmentation": "Segmentation/teeth_mask/843.jpg"
+    },
+    {
+      "radiograph": "Radiographs/87.JPG",
+      "segmentation": "Segmentation/teeth_mask/87.jpg"
+    },
+    {
+      "radiograph": "Radiographs/114.JPG",
+      "segmentation": "Segmentation/teeth_mask/114.jpg"
+    },
+    {
+      "radiograph": "Radiographs/676.JPG",
+      "segmentation": "Segmentation/teeth_mask/676.jpg"
+    },
+    {
+      "radiograph": "Radiographs/943.JPG",
+      "segmentation": "Segmentation/teeth_mask/943.jpg"
+    },
+    {
+      "radiograph": "Radiographs/442.JPG",
+      "segmentation": "Segmentation/teeth_mask/442.jpg"
+    },
+    {
+      "radiograph": "Radiographs/419.JPG",
+      "segmentation": "Segmentation/teeth_mask/419.jpg"
+    },
+    {
+      "radiograph": "Radiographs/179.JPG",
+      "segmentation": "Segmentation/teeth_mask/179.jpg"
+    },
+    {
+      "radiograph": "Radiographs/521.JPG",
+      "segmentation": "Segmentation/teeth_mask/521.jpg"
+    },
+    {
+      "radiograph": "Radiographs/812.JPG",
+      "segmentation": "Segmentation/teeth_mask/812.jpg"
+    },
+    {
+      "radiograph": "Radiographs/904.JPG",
+      "segmentation": "Segmentation/teeth_mask/904.jpg"
+    },
+    {
+      "radiograph": "Radiographs/464.JPG",
+      "segmentation": "Segmentation/teeth_mask/464.jpg"
+    },
+    {
+      "radiograph": "Radiographs/945.JPG",
+      "segmentation": "Segmentation/teeth_mask/945.jpg"
+    },
+    {
+      "radiograph": "Radiographs/72.JPG",
+      "segmentation": "Segmentation/teeth_mask/72.jpg"
+    },
+    {
+      "radiograph": "Radiographs/338.JPG",
+      "segmentation": "Segmentation/teeth_mask/338.jpg"
+    },
+    {
+      "radiograph": "Radiographs/885.JPG",
+      "segmentation": "Segmentation/teeth_mask/885.jpg"
+    },
+    {
+      "radiograph": "Radiographs/259.JPG",
+      "segmentation": "Segmentation/teeth_mask/259.jpg"
+    },
+    {
+      "radiograph": "Radiographs/920.JPG",
+      "segmentation": "Segmentation/teeth_mask/920.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1040.JPG",
+      "segmentation": "Segmentation/teeth_mask/1040.jpg"
+    },
+    {
+      "radiograph": "Radiographs/868.JPG",
+      "segmentation": "Segmentation/teeth_mask/868.jpg"
+    },
+    {
+      "radiograph": "Radiographs/902.JPG",
+      "segmentation": "Segmentation/teeth_mask/902.jpg"
+    },
+    {
+      "radiograph": "Radiographs/180.JPG",
+      "segmentation": "Segmentation/teeth_mask/180.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1025.JPG",
+      "segmentation": "Segmentation/teeth_mask/1025.jpg"
+    },
+    {
+      "radiograph": "Radiographs/847.JPG",
+      "segmentation": "Segmentation/teeth_mask/847.jpg"
+    },
+    {
+      "radiograph": "Radiographs/974.JPG",
+      "segmentation": "Segmentation/teeth_mask/974.jpg"
+    },
+    {
+      "radiograph": "Radiographs/158.JPG",
+      "segmentation": "Segmentation/teeth_mask/158.jpg"
+    },
+    {
+      "radiograph": "Radiographs/170.JPG",
+      "segmentation": "Segmentation/teeth_mask/170.jpg"
+    },
+    {
+      "radiograph": "Radiographs/469.JPG",
+      "segmentation": "Segmentation/teeth_mask/469.jpg"
+    },
+    {
+      "radiograph": "Radiographs/95.JPG",
+      "segmentation": "Segmentation/teeth_mask/95.jpg"
+    },
+    {
+      "radiograph": "Radiographs/175.JPG",
+      "segmentation": "Segmentation/teeth_mask/175.jpg"
+    },
+    {
+      "radiograph": "Radiographs/422.JPG",
+      "segmentation": "Segmentation/teeth_mask/422.jpg"
+    },
+    {
+      "radiograph": "Radiographs/107.JPG",
+      "segmentation": "Segmentation/teeth_mask/107.jpg"
+    },
+    {
+      "radiograph": "Radiographs/221.JPG",
+      "segmentation": "Segmentation/teeth_mask/221.jpg"
+    },
+    {
+      "radiograph": "Radiographs/359.JPG",
+      "segmentation": "Segmentation/teeth_mask/359.jpg"
+    },
+    {
+      "radiograph": "Radiographs/365.JPG",
+      "segmentation": "Segmentation/teeth_mask/365.jpg"
+    },
+    {
+      "radiograph": "Radiographs/887.JPG",
+      "segmentation": "Segmentation/teeth_mask/887.jpg"
+    },
+    {
+      "radiograph": "Radiographs/306.JPG",
+      "segmentation": "Segmentation/teeth_mask/306.jpg"
+    },
+    {
+      "radiograph": "Radiographs/199.JPG",
+      "segmentation": "Segmentation/teeth_mask/199.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1047.JPG",
+      "segmentation": "Segmentation/teeth_mask/1047.jpg"
+    },
+    {
+      "radiograph": "Radiographs/533.JPG",
+      "segmentation": "Segmentation/teeth_mask/533.jpg"
+    },
+    {
+      "radiograph": "Radiographs/144.JPG",
+      "segmentation": "Segmentation/teeth_mask/144.jpg"
+    },
+    {
+      "radiograph": "Radiographs/415.JPG",
+      "segmentation": "Segmentation/teeth_mask/415.jpg"
+    },
+    {
+      "radiograph": "Radiographs/557.JPG",
+      "segmentation": "Segmentation/teeth_mask/557.jpg"
+    },
+    {
+      "radiograph": "Radiographs/983.JPG",
+      "segmentation": "Segmentation/teeth_mask/983.jpg"
+    },
+    {
+      "radiograph": "Radiographs/859.JPG",
+      "segmentation": "Segmentation/teeth_mask/859.jpg"
+    },
+    {
+      "radiograph": "Radiographs/385.JPG",
+      "segmentation": "Segmentation/teeth_mask/385.jpg"
+    },
+    {
+      "radiograph": "Radiographs/44.JPG",
+      "segmentation": "Segmentation/teeth_mask/44.jpg"
+    },
+    {
+      "radiograph": "Radiographs/272.JPG",
+      "segmentation": "Segmentation/teeth_mask/272.jpg"
+    },
+    {
+      "radiograph": "Radiographs/987.JPG",
+      "segmentation": "Segmentation/teeth_mask/987.jpg"
+    },
+    {
+      "radiograph": "Radiographs/215.JPG",
+      "segmentation": "Segmentation/teeth_mask/215.jpg"
+    },
+    {
+      "radiograph": "Radiographs/375.JPG",
+      "segmentation": "Segmentation/teeth_mask/375.jpg"
+    },
+    {
+      "radiograph": "Radiographs/621.JPG",
+      "segmentation": "Segmentation/teeth_mask/621.jpg"
+    },
+    {
+      "radiograph": "Radiographs/919.JPG",
+      "segmentation": "Segmentation/teeth_mask/919.jpg"
+    },
+    {
+      "radiograph": "Radiographs/502.JPG",
+      "segmentation": "Segmentation/teeth_mask/502.jpg"
+    },
+    {
+      "radiograph": "Radiographs/48.JPG",
+      "segmentation": "Segmentation/teeth_mask/48.jpg"
+    },
+    {
+      "radiograph": "Radiographs/163.JPG",
+      "segmentation": "Segmentation/teeth_mask/163.jpg"
+    },
+    {
+      "radiograph": "Radiographs/864.JPG",
+      "segmentation": "Segmentation/teeth_mask/864.jpg"
+    },
+    {
+      "radiograph": "Radiographs/207.JPG",
+      "segmentation": "Segmentation/teeth_mask/207.jpg"
+    },
+    {
+      "radiograph": "Radiographs/490.JPG",
+      "segmentation": "Segmentation/teeth_mask/490.jpg"
+    },
+    {
+      "radiograph": "Radiographs/324.JPG",
+      "segmentation": "Segmentation/teeth_mask/324.jpg"
+    },
+    {
+      "radiograph": "Radiographs/254.JPG",
+      "segmentation": "Segmentation/teeth_mask/254.jpg"
+    },
+    {
+      "radiograph": "Radiographs/206.JPG",
+      "segmentation": "Segmentation/teeth_mask/206.jpg"
+    },
+    {
+      "radiograph": "Radiographs/61.JPG",
+      "segmentation": "Segmentation/teeth_mask/61.jpg"
+    },
+    {
+      "radiograph": "Radiographs/770.JPG",
+      "segmentation": "Segmentation/teeth_mask/770.jpg"
+    },
+    {
+      "radiograph": "Radiographs/985.JPG",
+      "segmentation": "Segmentation/teeth_mask/985.jpg"
+    },
+    {
+      "radiograph": "Radiographs/421.JPG",
+      "segmentation": "Segmentation/teeth_mask/421.jpg"
+    },
+    {
+      "radiograph": "Radiographs/811.JPG",
+      "segmentation": "Segmentation/teeth_mask/811.jpg"
+    },
+    {
+      "radiograph": "Radiographs/665.JPG",
+      "segmentation": "Segmentation/teeth_mask/665.jpg"
+    },
+    {
+      "radiograph": "Radiographs/816.JPG",
+      "segmentation": "Segmentation/teeth_mask/816.jpg"
+    },
+    {
+      "radiograph": "Radiographs/562.JPG",
+      "segmentation": "Segmentation/teeth_mask/562.jpg"
+    },
+    {
+      "radiograph": "Radiographs/532.JPG",
+      "segmentation": "Segmentation/teeth_mask/532.jpg"
+    },
+    {
+      "radiograph": "Radiographs/751.JPG",
+      "segmentation": "Segmentation/teeth_mask/751.jpg"
+    },
+    {
+      "radiograph": "Radiographs/584.JPG",
+      "segmentation": "Segmentation/teeth_mask/584.jpg"
+    },
+    {
+      "radiograph": "Radiographs/57.JPG",
+      "segmentation": "Segmentation/teeth_mask/57.jpg"
+    },
+    {
+      "radiograph": "Radiographs/395.JPG",
+      "segmentation": "Segmentation/teeth_mask/395.jpg"
+    },
+    {
+      "radiograph": "Radiographs/253.JPG",
+      "segmentation": "Segmentation/teeth_mask/253.jpg"
+    },
+    {
+      "radiograph": "Radiographs/894.JPG",
+      "segmentation": "Segmentation/teeth_mask/894.jpg"
+    },
+    {
+      "radiograph": "Radiographs/631.JPG",
+      "segmentation": "Segmentation/teeth_mask/631.jpg"
+    },
+    {
+      "radiograph": "Radiographs/727.JPG",
+      "segmentation": "Segmentation/teeth_mask/727.jpg"
+    },
+    {
+      "radiograph": "Radiographs/558.JPG",
+      "segmentation": "Segmentation/teeth_mask/558.jpg"
+    },
+    {
+      "radiograph": "Radiographs/302.JPG",
+      "segmentation": "Segmentation/teeth_mask/302.jpg"
+    },
+    {
+      "radiograph": "Radiographs/205.JPG",
+      "segmentation": "Segmentation/teeth_mask/205.jpg"
+    },
+    {
+      "radiograph": "Radiographs/86.JPG",
+      "segmentation": "Segmentation/teeth_mask/86.jpg"
+    },
+    {
+      "radiograph": "Radiographs/122.JPG",
+      "segmentation": "Segmentation/teeth_mask/122.jpg"
+    },
+    {
+      "radiograph": "Radiographs/468.JPG",
+      "segmentation": "Segmentation/teeth_mask/468.jpg"
+    },
+    {
+      "radiograph": "Radiographs/379.JPG",
+      "segmentation": "Segmentation/teeth_mask/379.jpg"
+    },
+    {
+      "radiograph": "Radiographs/541.JPG",
+      "segmentation": "Segmentation/teeth_mask/541.jpg"
+    },
+    {
+      "radiograph": "Radiographs/762.JPG",
+      "segmentation": "Segmentation/teeth_mask/762.jpg"
+    },
+    {
+      "radiograph": "Radiographs/516.JPG",
+      "segmentation": "Segmentation/teeth_mask/516.jpg"
+    },
+    {
+      "radiograph": "Radiographs/551.JPG",
+      "segmentation": "Segmentation/teeth_mask/551.jpg"
+    },
+    {
+      "radiograph": "Radiographs/899.JPG",
+      "segmentation": "Segmentation/teeth_mask/899.jpg"
+    },
+    {
+      "radiograph": "Radiographs/951.JPG",
+      "segmentation": "Segmentation/teeth_mask/951.jpg"
+    },
+    {
+      "radiograph": "Radiographs/235.JPG",
+      "segmentation": "Segmentation/teeth_mask/235.jpg"
+    },
+    {
+      "radiograph": "Radiographs/693.JPG",
+      "segmentation": "Segmentation/teeth_mask/693.jpg"
+    },
+    {
+      "radiograph": "Radiographs/382.JPG",
+      "segmentation": "Segmentation/teeth_mask/382.jpg"
+    },
+    {
+      "radiograph": "Radiographs/416.JPG",
+      "segmentation": "Segmentation/teeth_mask/416.jpg"
+    },
+    {
+      "radiograph": "Radiographs/907.JPG",
+      "segmentation": "Segmentation/teeth_mask/907.jpg"
+    },
+    {
+      "radiograph": "Radiographs/406.JPG",
+      "segmentation": "Segmentation/teeth_mask/406.jpg"
+    },
+    {
+      "radiograph": "Radiographs/592.JPG",
+      "segmentation": "Segmentation/teeth_mask/592.jpg"
+    },
+    {
+      "radiograph": "Radiographs/319.JPG",
+      "segmentation": "Segmentation/teeth_mask/319.jpg"
+    },
+    {
+      "radiograph": "Radiographs/708.JPG",
+      "segmentation": "Segmentation/teeth_mask/708.jpg"
+    },
+    {
+      "radiograph": "Radiographs/309.JPG",
+      "segmentation": "Segmentation/teeth_mask/309.jpg"
+    },
+    {
+      "radiograph": "Radiographs/793.JPG",
+      "segmentation": "Segmentation/teeth_mask/793.jpg"
+    },
+    {
+      "radiograph": "Radiographs/938.JPG",
+      "segmentation": "Segmentation/teeth_mask/938.jpg"
+    },
+    {
+      "radiograph": "Radiographs/56.JPG",
+      "segmentation": "Segmentation/teeth_mask/56.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1024.JPG",
+      "segmentation": "Segmentation/teeth_mask/1024.jpg"
+    },
+    {
+      "radiograph": "Radiographs/568.JPG",
+      "segmentation": "Segmentation/teeth_mask/568.jpg"
+    },
+    {
+      "radiograph": "Radiographs/154.JPG",
+      "segmentation": "Segmentation/teeth_mask/154.jpg"
+    },
+    {
+      "radiograph": "Radiographs/339.JPG",
+      "segmentation": "Segmentation/teeth_mask/339.jpg"
+    },
+    {
+      "radiograph": "Radiographs/492.JPG",
+      "segmentation": "Segmentation/teeth_mask/492.jpg"
+    },
+    {
+      "radiograph": "Radiographs/245.JPG",
+      "segmentation": "Segmentation/teeth_mask/245.jpg"
+    },
+    {
+      "radiograph": "Radiographs/723.JPG",
+      "segmentation": "Segmentation/teeth_mask/723.jpg"
+    },
+    {
+      "radiograph": "Radiographs/304.JPG",
+      "segmentation": "Segmentation/teeth_mask/304.jpg"
+    },
+    {
+      "radiograph": "Radiographs/352.JPG",
+      "segmentation": "Segmentation/teeth_mask/352.jpg"
+    },
+    {
+      "radiograph": "Radiographs/979.JPG",
+      "segmentation": "Segmentation/teeth_mask/979.jpg"
+    },
+    {
+      "radiograph": "Radiographs/211.JPG",
+      "segmentation": "Segmentation/teeth_mask/211.jpg"
+    },
+    {
+      "radiograph": "Radiographs/439.JPG",
+      "segmentation": "Segmentation/teeth_mask/439.jpg"
+    },
+    {
+      "radiograph": "Radiographs/565.JPG",
+      "segmentation": "Segmentation/teeth_mask/565.jpg"
+    },
+    {
+      "radiograph": "Radiographs/226.JPG",
+      "segmentation": "Segmentation/teeth_mask/226.jpg"
+    },
+    {
+      "radiograph": "Radiographs/741.JPG",
+      "segmentation": "Segmentation/teeth_mask/741.jpg"
+    },
+    {
+      "radiograph": "Radiographs/804.JPG",
+      "segmentation": "Segmentation/teeth_mask/804.jpg"
+    },
+    {
+      "radiograph": "Radiographs/827.JPG",
+      "segmentation": "Segmentation/teeth_mask/827.jpg"
+    },
+    {
+      "radiograph": "Radiographs/79.JPG",
+      "segmentation": "Segmentation/teeth_mask/79.jpg"
+    },
+    {
+      "radiograph": "Radiographs/77.JPG",
+      "segmentation": "Segmentation/teeth_mask/77.jpg"
+    },
+    {
+      "radiograph": "Radiographs/340.JPG",
+      "segmentation": "Segmentation/teeth_mask/340.jpg"
+    },
+    {
+      "radiograph": "Radiographs/149.JPG",
+      "segmentation": "Segmentation/teeth_mask/149.jpg"
+    },
+    {
+      "radiograph": "Radiographs/930.JPG",
+      "segmentation": "Segmentation/teeth_mask/930.jpg"
+    },
+    {
+      "radiograph": "Radiographs/481.JPG",
+      "segmentation": "Segmentation/teeth_mask/481.jpg"
+    },
+    {
+      "radiograph": "Radiographs/662.JPG",
+      "segmentation": "Segmentation/teeth_mask/662.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1014.JPG",
+      "segmentation": "Segmentation/teeth_mask/1014.jpg"
+    },
+    {
+      "radiograph": "Radiographs/51.JPG",
+      "segmentation": "Segmentation/teeth_mask/51.jpg"
+    },
+    {
+      "radiograph": "Radiographs/995.JPG",
+      "segmentation": "Segmentation/teeth_mask/995.jpg"
+    },
+    {
+      "radiograph": "Radiographs/876.JPG",
+      "segmentation": "Segmentation/teeth_mask/876.jpg"
+    },
+    {
+      "radiograph": "Radiographs/465.JPG",
+      "segmentation": "Segmentation/teeth_mask/465.jpg"
+    },
+    {
+      "radiograph": "Radiographs/712.JPG",
+      "segmentation": "Segmentation/teeth_mask/712.jpg"
+    },
+    {
+      "radiograph": "Radiographs/531.JPG",
+      "segmentation": "Segmentation/teeth_mask/531.jpg"
+    },
+    {
+      "radiograph": "Radiographs/303.JPG",
+      "segmentation": "Segmentation/teeth_mask/303.jpg"
+    },
+    {
+      "radiograph": "Radiographs/369.JPG",
+      "segmentation": "Segmentation/teeth_mask/369.jpg"
+    },
+    {
+      "radiograph": "Radiographs/229.JPG",
+      "segmentation": "Segmentation/teeth_mask/229.jpg"
+    },
+    {
+      "radiograph": "Radiographs/589.JPG",
+      "segmentation": "Segmentation/teeth_mask/589.jpg"
+    },
+    {
+      "radiograph": "Radiographs/432.JPG",
+      "segmentation": "Segmentation/teeth_mask/432.jpg"
+    },
+    {
+      "radiograph": "Radiographs/525.JPG",
+      "segmentation": "Segmentation/teeth_mask/525.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1039.JPG",
+      "segmentation": "Segmentation/teeth_mask/1039.jpg"
+    },
+    {
+      "radiograph": "Radiographs/475.JPG",
+      "segmentation": "Segmentation/teeth_mask/475.jpg"
+    },
+    {
+      "radiograph": "Radiographs/929.JPG",
+      "segmentation": "Segmentation/teeth_mask/929.jpg"
+    },
+    {
+      "radiograph": "Radiographs/678.JPG",
+      "segmentation": "Segmentation/teeth_mask/678.jpg"
+    },
+    {
+      "radiograph": "Radiographs/654.JPG",
+      "segmentation": "Segmentation/teeth_mask/654.jpg"
+    },
+    {
+      "radiograph": "Radiographs/155.JPG",
+      "segmentation": "Segmentation/teeth_mask/155.jpg"
+    },
+    {
+      "radiograph": "Radiographs/377.JPG",
+      "segmentation": "Segmentation/teeth_mask/377.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1012.JPG",
+      "segmentation": "Segmentation/teeth_mask/1012.jpg"
+    },
+    {
+      "radiograph": "Radiographs/702.JPG",
+      "segmentation": "Segmentation/teeth_mask/702.jpg"
+    },
+    {
+      "radiograph": "Radiographs/171.JPG",
+      "segmentation": "Segmentation/teeth_mask/171.jpg"
+    },
+    {
+      "radiograph": "Radiographs/479.JPG",
+      "segmentation": "Segmentation/teeth_mask/479.jpg"
+    },
+    {
+      "radiograph": "Radiographs/443.JPG",
+      "segmentation": "Segmentation/teeth_mask/443.jpg"
+    },
+    {
+      "radiograph": "Radiographs/824.JPG",
+      "segmentation": "Segmentation/teeth_mask/824.jpg"
+    },
+    {
+      "radiograph": "Radiographs/354.JPG",
+      "segmentation": "Segmentation/teeth_mask/354.jpg"
+    },
+    {
+      "radiograph": "Radiographs/397.JPG",
+      "segmentation": "Segmentation/teeth_mask/397.jpg"
+    },
+    {
+      "radiograph": "Radiographs/501.JPG",
+      "segmentation": "Segmentation/teeth_mask/501.jpg"
+    },
+    {
+      "radiograph": "Radiographs/251.JPG",
+      "segmentation": "Segmentation/teeth_mask/251.jpg"
+    },
+    {
+      "radiograph": "Radiographs/273.JPG",
+      "segmentation": "Segmentation/teeth_mask/273.jpg"
+    },
+    {
+      "radiograph": "Radiographs/510.JPG",
+      "segmentation": "Segmentation/teeth_mask/510.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1042.JPG",
+      "segmentation": "Segmentation/teeth_mask/1042.jpg"
+    },
+    {
+      "radiograph": "Radiographs/429.JPG",
+      "segmentation": "Segmentation/teeth_mask/429.jpg"
+    },
+    {
+      "radiograph": "Radiographs/166.JPG",
+      "segmentation": "Segmentation/teeth_mask/166.jpg"
+    },
+    {
+      "radiograph": "Radiographs/840.JPG",
+      "segmentation": "Segmentation/teeth_mask/840.jpg"
+    },
+    {
+      "radiograph": "Radiographs/821.JPG",
+      "segmentation": "Segmentation/teeth_mask/821.jpg"
+    },
+    {
+      "radiograph": "Radiographs/960.JPG",
+      "segmentation": "Segmentation/teeth_mask/960.jpg"
+    },
+    {
+      "radiograph": "Radiographs/456.JPG",
+      "segmentation": "Segmentation/teeth_mask/456.jpg"
+    },
+    {
+      "radiograph": "Radiographs/38.JPG",
+      "segmentation": "Segmentation/teeth_mask/38.jpg"
+    },
+    {
+      "radiograph": "Radiographs/232.JPG",
+      "segmentation": "Segmentation/teeth_mask/232.jpg"
+    },
+    {
+      "radiograph": "Radiographs/997.JPG",
+      "segmentation": "Segmentation/teeth_mask/997.jpg"
+    },
+    {
+      "radiograph": "Radiographs/457.JPG",
+      "segmentation": "Segmentation/teeth_mask/457.jpg"
+    },
+    {
+      "radiograph": "Radiographs/230.JPG",
+      "segmentation": "Segmentation/teeth_mask/230.jpg"
+    },
+    {
+      "radiograph": "Radiographs/908.JPG",
+      "segmentation": "Segmentation/teeth_mask/908.jpg"
+    },
+    {
+      "radiograph": "Radiographs/869.JPG",
+      "segmentation": "Segmentation/teeth_mask/869.jpg"
+    },
+    {
+      "radiograph": "Radiographs/666.JPG",
+      "segmentation": "Segmentation/teeth_mask/666.jpg"
+    },
+    {
+      "radiograph": "Radiographs/76.JPG",
+      "segmentation": "Segmentation/teeth_mask/76.jpg"
+    },
+    {
+      "radiograph": "Radiographs/717.JPG",
+      "segmentation": "Segmentation/teeth_mask/717.jpg"
+    },
+    {
+      "radiograph": "Radiographs/161.JPG",
+      "segmentation": "Segmentation/teeth_mask/161.jpg"
+    },
+    {
+      "radiograph": "Radiographs/921.JPG",
+      "segmentation": "Segmentation/teeth_mask/921.jpg"
+    },
+    {
+      "radiograph": "Radiographs/67.JPG",
+      "segmentation": "Segmentation/teeth_mask/67.jpg"
+    },
+    {
+      "radiograph": "Radiographs/403.JPG",
+      "segmentation": "Segmentation/teeth_mask/403.jpg"
+    },
+    {
+      "radiograph": "Radiographs/639.JPG",
+      "segmentation": "Segmentation/teeth_mask/639.jpg"
+    },
+    {
+      "radiograph": "Radiographs/909.JPG",
+      "segmentation": "Segmentation/teeth_mask/909.jpg"
+    },
+    {
+      "radiograph": "Radiographs/357.JPG",
+      "segmentation": "Segmentation/teeth_mask/357.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1046.JPG",
+      "segmentation": "Segmentation/teeth_mask/1046.jpg"
+    },
+    {
+      "radiograph": "Radiographs/185.JPG",
+      "segmentation": "Segmentation/teeth_mask/185.jpg"
+    },
+    {
+      "radiograph": "Radiographs/473.JPG",
+      "segmentation": "Segmentation/teeth_mask/473.jpg"
+    },
+    {
+      "radiograph": "Radiographs/203.JPG",
+      "segmentation": "Segmentation/teeth_mask/203.jpg"
+    },
+    {
+      "radiograph": "Radiographs/610.JPG",
+      "segmentation": "Segmentation/teeth_mask/610.jpg"
+    },
+    {
+      "radiograph": "Radiographs/104.JPG",
+      "segmentation": "Segmentation/teeth_mask/104.jpg"
+    },
+    {
+      "radiograph": "Radiographs/204.JPG",
+      "segmentation": "Segmentation/teeth_mask/204.jpg"
+    },
+    {
+      "radiograph": "Radiographs/696.JPG",
+      "segmentation": "Segmentation/teeth_mask/696.jpg"
+    },
+    {
+      "radiograph": "Radiographs/959.JPG",
+      "segmentation": "Segmentation/teeth_mask/959.jpg"
+    },
+    {
+      "radiograph": "Radiographs/622.JPG",
+      "segmentation": "Segmentation/teeth_mask/622.jpg"
+    },
+    {
+      "radiograph": "Radiographs/470.JPG",
+      "segmentation": "Segmentation/teeth_mask/470.jpg"
+    },
+    {
+      "radiograph": "Radiographs/485.JPG",
+      "segmentation": "Segmentation/teeth_mask/485.jpg"
+    },
+    {
+      "radiograph": "Radiographs/797.JPG",
+      "segmentation": "Segmentation/teeth_mask/797.jpg"
+    },
+    {
+      "radiograph": "Radiographs/310.JPG",
+      "segmentation": "Segmentation/teeth_mask/310.jpg"
+    },
+    {
+      "radiograph": "Radiographs/188.JPG",
+      "segmentation": "Segmentation/teeth_mask/188.jpg"
+    },
+    {
+      "radiograph": "Radiographs/380.JPG",
+      "segmentation": "Segmentation/teeth_mask/380.jpg"
+    },
+    {
+      "radiograph": "Radiographs/813.JPG",
+      "segmentation": "Segmentation/teeth_mask/813.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1051.JPG",
+      "segmentation": "Segmentation/teeth_mask/1051.jpg"
+    },
+    {
+      "radiograph": "Radiographs/328.JPG",
+      "segmentation": "Segmentation/teeth_mask/328.jpg"
+    },
+    {
+      "radiograph": "Radiographs/670.JPG",
+      "segmentation": "Segmentation/teeth_mask/670.jpg"
+    },
+    {
+      "radiograph": "Radiographs/948.JPG",
+      "segmentation": "Segmentation/teeth_mask/948.jpg"
+    },
+    {
+      "radiograph": "Radiographs/111.JPG",
+      "segmentation": "Segmentation/teeth_mask/111.jpg"
+    },
+    {
+      "radiograph": "Radiographs/83.JPG",
+      "segmentation": "Segmentation/teeth_mask/83.jpg"
+    },
+    {
+      "radiograph": "Radiographs/790.JPG",
+      "segmentation": "Segmentation/teeth_mask/790.jpg"
+    },
+    {
+      "radiograph": "Radiographs/975.JPG",
+      "segmentation": "Segmentation/teeth_mask/975.jpg"
+    },
+    {
+      "radiograph": "Radiographs/620.JPG",
+      "segmentation": "Segmentation/teeth_mask/620.jpg"
+    },
+    {
+      "radiograph": "Radiographs/255.JPG",
+      "segmentation": "Segmentation/teeth_mask/255.jpg"
+    },
+    {
+      "radiograph": "Radiographs/390.JPG",
+      "segmentation": "Segmentation/teeth_mask/390.jpg"
+    },
+    {
+      "radiograph": "Radiographs/261.JPG",
+      "segmentation": "Segmentation/teeth_mask/261.jpg"
+    },
+    {
+      "radiograph": "Radiographs/332.JPG",
+      "segmentation": "Segmentation/teeth_mask/332.jpg"
+    },
+    {
+      "radiograph": "Radiographs/322.JPG",
+      "segmentation": "Segmentation/teeth_mask/322.jpg"
+    },
+    {
+      "radiograph": "Radiographs/952.JPG",
+      "segmentation": "Segmentation/teeth_mask/952.jpg"
+    },
+    {
+      "radiograph": "Radiographs/829.JPG",
+      "segmentation": "Segmentation/teeth_mask/829.jpg"
+    },
+    {
+      "radiograph": "Radiographs/165.JPG",
+      "segmentation": "Segmentation/teeth_mask/165.jpg"
+    },
+    {
+      "radiograph": "Radiographs/173.JPG",
+      "segmentation": "Segmentation/teeth_mask/173.jpg"
+    },
+    {
+      "radiograph": "Radiographs/941.JPG",
+      "segmentation": "Segmentation/teeth_mask/941.jpg"
+    },
+    {
+      "radiograph": "Radiographs/191.JPG",
+      "segmentation": "Segmentation/teeth_mask/191.jpg"
+    },
+    {
+      "radiograph": "Radiographs/162.JPG",
+      "segmentation": "Segmentation/teeth_mask/162.jpg"
+    },
+    {
+      "radiograph": "Radiographs/349.JPG",
+      "segmentation": "Segmentation/teeth_mask/349.jpg"
+    },
+    {
+      "radiograph": "Radiographs/97.JPG",
+      "segmentation": "Segmentation/teeth_mask/97.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1009.JPG",
+      "segmentation": "Segmentation/teeth_mask/1009.jpg"
+    },
+    {
+      "radiograph": "Radiographs/830.JPG",
+      "segmentation": "Segmentation/teeth_mask/830.jpg"
+    },
+    {
+      "radiograph": "Radiographs/351.JPG",
+      "segmentation": "Segmentation/teeth_mask/351.jpg"
+    },
+    {
+      "radiograph": "Radiographs/581.JPG",
+      "segmentation": "Segmentation/teeth_mask/581.jpg"
+    },
+    {
+      "radiograph": "Radiographs/758.JPG",
+      "segmentation": "Segmentation/teeth_mask/758.jpg"
+    },
+    {
+      "radiograph": "Radiographs/652.JPG",
+      "segmentation": "Segmentation/teeth_mask/652.jpg"
+    },
+    {
+      "radiograph": "Radiographs/335.JPG",
+      "segmentation": "Segmentation/teeth_mask/335.jpg"
+    },
+    {
+      "radiograph": "Radiographs/417.JPG",
+      "segmentation": "Segmentation/teeth_mask/417.jpg"
+    },
+    {
+      "radiograph": "Radiographs/895.JPG",
+      "segmentation": "Segmentation/teeth_mask/895.jpg"
+    },
+    {
+      "radiograph": "Radiographs/648.JPG",
+      "segmentation": "Segmentation/teeth_mask/648.jpg"
+    },
+    {
+      "radiograph": "Radiographs/396.JPG",
+      "segmentation": "Segmentation/teeth_mask/396.jpg"
+    },
+    {
+      "radiograph": "Radiographs/728.JPG",
+      "segmentation": "Segmentation/teeth_mask/728.jpg"
+    },
+    {
+      "radiograph": "Radiographs/64.JPG",
+      "segmentation": "Segmentation/teeth_mask/64.jpg"
+    },
+    {
+      "radiograph": "Radiographs/546.JPG",
+      "segmentation": "Segmentation/teeth_mask/546.jpg"
+    },
+    {
+      "radiograph": "Radiographs/680.JPG",
+      "segmentation": "Segmentation/teeth_mask/680.jpg"
+    },
+    {
+      "radiograph": "Radiographs/575.JPG",
+      "segmentation": "Segmentation/teeth_mask/575.jpg"
+    },
+    {
+      "radiograph": "Radiographs/134.JPG",
+      "segmentation": "Segmentation/teeth_mask/134.jpg"
+    },
+    {
+      "radiograph": "Radiographs/159.JPG",
+      "segmentation": "Segmentation/teeth_mask/159.jpg"
+    },
+    {
+      "radiograph": "Radiographs/6.JPG",
+      "segmentation": "Segmentation/teeth_mask/6.jpg"
+    },
+    {
+      "radiograph": "Radiographs/865.JPG",
+      "segmentation": "Segmentation/teeth_mask/865.jpg"
+    },
+    {
+      "radiograph": "Radiographs/101.JPG",
+      "segmentation": "Segmentation/teeth_mask/101.jpg"
+    },
+    {
+      "radiograph": "Radiographs/133.JPG",
+      "segmentation": "Segmentation/teeth_mask/133.jpg"
+    },
+    {
+      "radiograph": "Radiographs/950.JPG",
+      "segmentation": "Segmentation/teeth_mask/950.jpg"
+    },
+    {
+      "radiograph": "Radiographs/5.JPG",
+      "segmentation": "Segmentation/teeth_mask/5.jpg"
+    },
+    {
+      "radiograph": "Radiographs/35.JPG",
+      "segmentation": "Segmentation/teeth_mask/35.jpg"
+    },
+    {
+      "radiograph": "Radiographs/189.JPG",
+      "segmentation": "Segmentation/teeth_mask/189.jpg"
+    },
+    {
+      "radiograph": "Radiographs/867.JPG",
+      "segmentation": "Segmentation/teeth_mask/867.jpg"
+    },
+    {
+      "radiograph": "Radiographs/890.JPG",
+      "segmentation": "Segmentation/teeth_mask/890.jpg"
+    },
+    {
+      "radiograph": "Radiographs/289.JPG",
+      "segmentation": "Segmentation/teeth_mask/289.jpg"
+    },
+    {
+      "radiograph": "Radiographs/659.JPG",
+      "segmentation": "Segmentation/teeth_mask/659.jpg"
+    },
+    {
+      "radiograph": "Radiographs/256.JPG",
+      "segmentation": "Segmentation/teeth_mask/256.jpg"
+    },
+    {
+      "radiograph": "Radiographs/31.JPG",
+      "segmentation": "Segmentation/teeth_mask/31.jpg"
+    },
+    {
+      "radiograph": "Radiographs/878.JPG",
+      "segmentation": "Segmentation/teeth_mask/878.jpg"
+    },
+    {
+      "radiograph": "Radiographs/561.JPG",
+      "segmentation": "Segmentation/teeth_mask/561.jpg"
+    },
+    {
+      "radiograph": "Radiographs/600.JPG",
+      "segmentation": "Segmentation/teeth_mask/600.jpg"
+    },
+    {
+      "radiograph": "Radiographs/852.JPG",
+      "segmentation": "Segmentation/teeth_mask/852.jpg"
+    },
+    {
+      "radiograph": "Radiographs/966.JPG",
+      "segmentation": "Segmentation/teeth_mask/966.jpg"
+    },
+    {
+      "radiograph": "Radiographs/141.JPG",
+      "segmentation": "Segmentation/teeth_mask/141.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1043.JPG",
+      "segmentation": "Segmentation/teeth_mask/1043.jpg"
+    },
+    {
+      "radiograph": "Radiographs/629.JPG",
+      "segmentation": "Segmentation/teeth_mask/629.jpg"
+    },
+    {
+      "radiograph": "Radiographs/614.JPG",
+      "segmentation": "Segmentation/teeth_mask/614.jpg"
+    },
+    {
+      "radiograph": "Radiographs/860.JPG",
+      "segmentation": "Segmentation/teeth_mask/860.jpg"
+    },
+    {
+      "radiograph": "Radiographs/606.JPG",
+      "segmentation": "Segmentation/teeth_mask/606.jpg"
+    },
+    {
+      "radiograph": "Radiographs/177.JPG",
+      "segmentation": "Segmentation/teeth_mask/177.jpg"
+    },
+    {
+      "radiograph": "Radiographs/449.JPG",
+      "segmentation": "Segmentation/teeth_mask/449.jpg"
+    },
+    {
+      "radiograph": "Radiographs/285.JPG",
+      "segmentation": "Segmentation/teeth_mask/285.jpg"
+    },
+    {
+      "radiograph": "Radiographs/739.JPG",
+      "segmentation": "Segmentation/teeth_mask/739.jpg"
+    },
+    {
+      "radiograph": "Radiographs/63.JPG",
+      "segmentation": "Segmentation/teeth_mask/63.jpg"
+    },
+    {
+      "radiograph": "Radiographs/779.JPG",
+      "segmentation": "Segmentation/teeth_mask/779.jpg"
+    },
+    {
+      "radiograph": "Radiographs/239.JPG",
+      "segmentation": "Segmentation/teeth_mask/239.jpg"
+    },
+    {
+      "radiograph": "Radiographs/140.JPG",
+      "segmentation": "Segmentation/teeth_mask/140.jpg"
+    },
+    {
+      "radiograph": "Radiographs/548.JPG",
+      "segmentation": "Segmentation/teeth_mask/548.jpg"
+    },
+    {
+      "radiograph": "Radiographs/883.JPG",
+      "segmentation": "Segmentation/teeth_mask/883.jpg"
+    },
+    {
+      "radiograph": "Radiographs/815.JPG",
+      "segmentation": "Segmentation/teeth_mask/815.jpg"
+    },
+    {
+      "radiograph": "Radiographs/794.JPG",
+      "segmentation": "Segmentation/teeth_mask/794.jpg"
+    },
+    {
+      "radiograph": "Radiographs/542.JPG",
+      "segmentation": "Segmentation/teeth_mask/542.jpg"
+    },
+    {
+      "radiograph": "Radiographs/518.JPG",
+      "segmentation": "Segmentation/teeth_mask/518.jpg"
+    },
+    {
+      "radiograph": "Radiographs/854.JPG",
+      "segmentation": "Segmentation/teeth_mask/854.jpg"
+    },
+    {
+      "radiograph": "Radiographs/691.JPG",
+      "segmentation": "Segmentation/teeth_mask/691.jpg"
+    },
+    {
+      "radiograph": "Radiographs/118.JPG",
+      "segmentation": "Segmentation/teeth_mask/118.jpg"
+    },
+    {
+      "radiograph": "Radiographs/362.JPG",
+      "segmentation": "Segmentation/teeth_mask/362.jpg"
+    },
+    {
+      "radiograph": "Radiographs/709.JPG",
+      "segmentation": "Segmentation/teeth_mask/709.jpg"
+    },
+    {
+      "radiograph": "Radiographs/580.JPG",
+      "segmentation": "Segmentation/teeth_mask/580.jpg"
+    },
+    {
+      "radiograph": "Radiographs/615.JPG",
+      "segmentation": "Segmentation/teeth_mask/615.jpg"
+    },
+    {
+      "radiograph": "Radiographs/845.JPG",
+      "segmentation": "Segmentation/teeth_mask/845.jpg"
+    },
+    {
+      "radiograph": "Radiographs/269.JPG",
+      "segmentation": "Segmentation/teeth_mask/269.jpg"
+    },
+    {
+      "radiograph": "Radiographs/346.JPG",
+      "segmentation": "Segmentation/teeth_mask/346.jpg"
+    },
+    {
+      "radiograph": "Radiographs/732.JPG",
+      "segmentation": "Segmentation/teeth_mask/732.jpg"
+    },
+    {
+      "radiograph": "Radiographs/21.JPG",
+      "segmentation": "Segmentation/teeth_mask/21.jpg"
+    },
+    {
+      "radiograph": "Radiographs/528.JPG",
+      "segmentation": "Segmentation/teeth_mask/528.jpg"
+    },
+    {
+      "radiograph": "Radiographs/593.JPG",
+      "segmentation": "Segmentation/teeth_mask/593.jpg"
+    },
+    {
+      "radiograph": "Radiographs/901.JPG",
+      "segmentation": "Segmentation/teeth_mask/901.jpg"
+    },
+    {
+      "radiograph": "Radiographs/336.JPG",
+      "segmentation": "Segmentation/teeth_mask/336.jpg"
+    },
+    {
+      "radiograph": "Radiographs/497.JPG",
+      "segmentation": "Segmentation/teeth_mask/497.jpg"
+    },
+    {
+      "radiograph": "Radiographs/988.JPG",
+      "segmentation": "Segmentation/teeth_mask/988.jpg"
+    },
+    {
+      "radiograph": "Radiographs/436.JPG",
+      "segmentation": "Segmentation/teeth_mask/436.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1000.JPG",
+      "segmentation": "Segmentation/teeth_mask/1000.jpg"
+    },
+    {
+      "radiograph": "Radiographs/892.JPG",
+      "segmentation": "Segmentation/teeth_mask/892.jpg"
+    },
+    {
+      "radiograph": "Radiographs/219.JPG",
+      "segmentation": "Segmentation/teeth_mask/219.jpg"
+    },
+    {
+      "radiograph": "Radiographs/740.JPG",
+      "segmentation": "Segmentation/teeth_mask/740.jpg"
+    },
+    {
+      "radiograph": "Radiographs/877.JPG",
+      "segmentation": "Segmentation/teeth_mask/877.jpg"
+    },
+    {
+      "radiograph": "Radiographs/264.JPG",
+      "segmentation": "Segmentation/teeth_mask/264.jpg"
+    },
+    {
+      "radiograph": "Radiographs/522.JPG",
+      "segmentation": "Segmentation/teeth_mask/522.jpg"
+    },
+    {
+      "radiograph": "Radiographs/731.JPG",
+      "segmentation": "Segmentation/teeth_mask/731.jpg"
+    },
+    {
+      "radiograph": "Radiographs/765.JPG",
+      "segmentation": "Segmentation/teeth_mask/765.jpg"
+    },
+    {
+      "radiograph": "Radiographs/220.JPG",
+      "segmentation": "Segmentation/teeth_mask/220.jpg"
+    },
+    {
+      "radiograph": "Radiographs/287.JPG",
+      "segmentation": "Segmentation/teeth_mask/287.jpg"
+    },
+    {
+      "radiograph": "Radiographs/98.JPG",
+      "segmentation": "Segmentation/teeth_mask/98.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1015.JPG",
+      "segmentation": "Segmentation/teeth_mask/1015.jpg"
+    },
+    {
+      "radiograph": "Radiographs/579.JPG",
+      "segmentation": "Segmentation/teeth_mask/579.jpg"
+    },
+    {
+      "radiograph": "Radiographs/685.JPG",
+      "segmentation": "Segmentation/teeth_mask/685.jpg"
+    },
+    {
+      "radiograph": "Radiographs/110.JPG",
+      "segmentation": "Segmentation/teeth_mask/110.jpg"
+    },
+    {
+      "radiograph": "Radiographs/989.JPG",
+      "segmentation": "Segmentation/teeth_mask/989.jpg"
+    },
+    {
+      "radiograph": "Radiographs/588.JPG",
+      "segmentation": "Segmentation/teeth_mask/588.jpg"
+    },
+    {
+      "radiograph": "Radiographs/486.JPG",
+      "segmentation": "Segmentation/teeth_mask/486.jpg"
+    },
+    {
+      "radiograph": "Radiographs/136.JPG",
+      "segmentation": "Segmentation/teeth_mask/136.jpg"
+    },
+    {
+      "radiograph": "Radiographs/299.JPG",
+      "segmentation": "Segmentation/teeth_mask/299.jpg"
+    },
+    {
+      "radiograph": "Radiographs/915.JPG",
+      "segmentation": "Segmentation/teeth_mask/915.jpg"
+    },
+    {
+      "radiograph": "Radiographs/733.JPG",
+      "segmentation": "Segmentation/teeth_mask/733.jpg"
+    },
+    {
+      "radiograph": "Radiographs/236.JPG",
+      "segmentation": "Segmentation/teeth_mask/236.jpg"
+    },
+    {
+      "radiograph": "Radiographs/838.JPG",
+      "segmentation": "Segmentation/teeth_mask/838.jpg"
+    },
+    {
+      "radiograph": "Radiographs/197.JPG",
+      "segmentation": "Segmentation/teeth_mask/197.jpg"
+    },
+    {
+      "radiograph": "Radiographs/964.JPG",
+      "segmentation": "Segmentation/teeth_mask/964.jpg"
+    },
+    {
+      "radiograph": "Radiographs/823.JPG",
+      "segmentation": "Segmentation/teeth_mask/823.jpg"
+    },
+    {
+      "radiograph": "Radiographs/721.JPG",
+      "segmentation": "Segmentation/teeth_mask/721.jpg"
+    },
+    {
+      "radiograph": "Radiographs/925.JPG",
+      "segmentation": "Segmentation/teeth_mask/925.jpg"
+    },
+    {
+      "radiograph": "Radiographs/298.JPG",
+      "segmentation": "Segmentation/teeth_mask/298.jpg"
+    },
+    {
+      "radiograph": "Radiographs/167.JPG",
+      "segmentation": "Segmentation/teeth_mask/167.jpg"
+    },
+    {
+      "radiograph": "Radiographs/387.JPG",
+      "segmentation": "Segmentation/teeth_mask/387.jpg"
+    },
+    {
+      "radiograph": "Radiographs/448.JPG",
+      "segmentation": "Segmentation/teeth_mask/448.jpg"
+    },
+    {
+      "radiograph": "Radiographs/121.JPG",
+      "segmentation": "Segmentation/teeth_mask/121.jpg"
+    },
+    {
+      "radiograph": "Radiographs/157.JPG",
+      "segmentation": "Segmentation/teeth_mask/157.jpg"
+    },
+    {
+      "radiograph": "Radiographs/68.JPG",
+      "segmentation": "Segmentation/teeth_mask/68.jpg"
+    },
+    {
+      "radiograph": "Radiographs/688.JPG",
+      "segmentation": "Segmentation/teeth_mask/688.jpg"
+    },
+    {
+      "radiograph": "Radiographs/707.JPG",
+      "segmentation": "Segmentation/teeth_mask/707.jpg"
+    },
+    {
+      "radiograph": "Radiographs/115.JPG",
+      "segmentation": "Segmentation/teeth_mask/115.jpg"
+    },
+    {
+      "radiograph": "Radiographs/508.JPG",
+      "segmentation": "Segmentation/teeth_mask/508.jpg"
+    },
+    {
+      "radiograph": "Radiographs/455.JPG",
+      "segmentation": "Segmentation/teeth_mask/455.jpg"
+    },
+    {
+      "radiograph": "Radiographs/769.JPG",
+      "segmentation": "Segmentation/teeth_mask/769.jpg"
+    },
+    {
+      "radiograph": "Radiographs/40.JPG",
+      "segmentation": "Segmentation/teeth_mask/40.jpg"
+    },
+    {
+      "radiograph": "Radiographs/474.JPG",
+      "segmentation": "Segmentation/teeth_mask/474.jpg"
+    },
+    {
+      "radiograph": "Radiographs/694.JPG",
+      "segmentation": "Segmentation/teeth_mask/694.jpg"
+    },
+    {
+      "radiograph": "Radiographs/946.JPG",
+      "segmentation": "Segmentation/teeth_mask/946.jpg"
+    },
+    {
+      "radiograph": "Radiographs/153.JPG",
+      "segmentation": "Segmentation/teeth_mask/153.jpg"
+    },
+    {
+      "radiograph": "Radiographs/242.JPG",
+      "segmentation": "Segmentation/teeth_mask/242.jpg"
+    },
+    {
+      "radiograph": "Radiographs/451.JPG",
+      "segmentation": "Segmentation/teeth_mask/451.jpg"
+    },
+    {
+      "radiograph": "Radiographs/725.JPG",
+      "segmentation": "Segmentation/teeth_mask/725.jpg"
+    },
+    {
+      "radiograph": "Radiographs/292.JPG",
+      "segmentation": "Segmentation/teeth_mask/292.jpg"
+    },
+    {
+      "radiograph": "Radiographs/513.JPG",
+      "segmentation": "Segmentation/teeth_mask/513.jpg"
+    },
+    {
+      "radiograph": "Radiographs/612.JPG",
+      "segmentation": "Segmentation/teeth_mask/612.jpg"
+    },
+    {
+      "radiograph": "Radiographs/607.JPG",
+      "segmentation": "Segmentation/teeth_mask/607.jpg"
+    },
+    {
+      "radiograph": "Radiographs/19.JPG",
+      "segmentation": "Segmentation/teeth_mask/19.jpg"
+    },
+    {
+      "radiograph": "Radiographs/767.JPG",
+      "segmentation": "Segmentation/teeth_mask/767.jpg"
+    },
+    {
+      "radiograph": "Radiographs/265.JPG",
+      "segmentation": "Segmentation/teeth_mask/265.jpg"
+    },
+    {
+      "radiograph": "Radiographs/78.JPG",
+      "segmentation": "Segmentation/teeth_mask/78.jpg"
+    },
+    {
+      "radiograph": "Radiographs/703.JPG",
+      "segmentation": "Segmentation/teeth_mask/703.jpg"
+    },
+    {
+      "radiograph": "Radiographs/33.JPG",
+      "segmentation": "Segmentation/teeth_mask/33.jpg"
+    },
+    {
+      "radiograph": "Radiographs/288.JPG",
+      "segmentation": "Segmentation/teeth_mask/288.jpg"
+    },
+    {
+      "radiograph": "Radiographs/553.JPG",
+      "segmentation": "Segmentation/teeth_mask/553.jpg"
+    },
+    {
+      "radiograph": "Radiographs/743.JPG",
+      "segmentation": "Segmentation/teeth_mask/743.jpg"
+    },
+    {
+      "radiograph": "Radiographs/378.JPG",
+      "segmentation": "Segmentation/teeth_mask/378.jpg"
+    },
+    {
+      "radiograph": "Radiographs/88.JPG",
+      "segmentation": "Segmentation/teeth_mask/88.jpg"
+    },
+    {
+      "radiograph": "Radiographs/128.JPG",
+      "segmentation": "Segmentation/teeth_mask/128.jpg"
+    },
+    {
+      "radiograph": "Radiographs/881.JPG",
+      "segmentation": "Segmentation/teeth_mask/881.jpg"
+    },
+    {
+      "radiograph": "Radiographs/12.JPG",
+      "segmentation": "Segmentation/teeth_mask/12.jpg"
+    },
+    {
+      "radiograph": "Radiographs/663.JPG",
+      "segmentation": "Segmentation/teeth_mask/663.jpg"
+    },
+    {
+      "radiograph": "Radiographs/74.JPG",
+      "segmentation": "Segmentation/teeth_mask/74.jpg"
+    },
+    {
+      "radiograph": "Radiographs/131.JPG",
+      "segmentation": "Segmentation/teeth_mask/131.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1008.JPG",
+      "segmentation": "Segmentation/teeth_mask/1008.jpg"
+    },
+    {
+      "radiograph": "Radiographs/965.JPG",
+      "segmentation": "Segmentation/teeth_mask/965.jpg"
+    },
+    {
+      "radiograph": "Radiographs/749.JPG",
+      "segmentation": "Segmentation/teeth_mask/749.jpg"
+    },
+    {
+      "radiograph": "Radiographs/280.JPG",
+      "segmentation": "Segmentation/teeth_mask/280.jpg"
+    },
+    {
+      "radiograph": "Radiographs/591.JPG",
+      "segmentation": "Segmentation/teeth_mask/591.jpg"
+    },
+    {
+      "radiograph": "Radiographs/623.JPG",
+      "segmentation": "Segmentation/teeth_mask/623.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1021.JPG",
+      "segmentation": "Segmentation/teeth_mask/1021.jpg"
+    },
+    {
+      "radiograph": "Radiographs/386.JPG",
+      "segmentation": "Segmentation/teeth_mask/386.jpg"
+    },
+    {
+      "radiograph": "Radiographs/836.JPG",
+      "segmentation": "Segmentation/teeth_mask/836.jpg"
+    },
+    {
+      "radiograph": "Radiographs/276.JPG",
+      "segmentation": "Segmentation/teeth_mask/276.jpg"
+    },
+    {
+      "radiograph": "Radiographs/297.JPG",
+      "segmentation": "Segmentation/teeth_mask/297.jpg"
+    },
+    {
+      "radiograph": "Radiographs/178.JPG",
+      "segmentation": "Segmentation/teeth_mask/178.jpg"
+    },
+    {
+      "radiograph": "Radiographs/494.JPG",
+      "segmentation": "Segmentation/teeth_mask/494.jpg"
+    },
+    {
+      "radiograph": "Radiographs/556.JPG",
+      "segmentation": "Segmentation/teeth_mask/556.jpg"
+    },
+    {
+      "radiograph": "Radiographs/480.JPG",
+      "segmentation": "Segmentation/teeth_mask/480.jpg"
+    },
+    {
+      "radiograph": "Radiographs/84.JPG",
+      "segmentation": "Segmentation/teeth_mask/84.jpg"
+    },
+    {
+      "radiograph": "Radiographs/969.JPG",
+      "segmentation": "Segmentation/teeth_mask/969.jpg"
+    },
+    {
+      "radiograph": "Radiographs/705.JPG",
+      "segmentation": "Segmentation/teeth_mask/705.jpg"
+    },
+    {
+      "radiograph": "Radiographs/851.JPG",
+      "segmentation": "Segmentation/teeth_mask/851.jpg"
+    },
+    {
+      "radiograph": "Radiographs/360.JPG",
+      "segmentation": "Segmentation/teeth_mask/360.jpg"
+    },
+    {
+      "radiograph": "Radiographs/745.JPG",
+      "segmentation": "Segmentation/teeth_mask/745.jpg"
+    },
+    {
+      "radiograph": "Radiographs/252.JPG",
+      "segmentation": "Segmentation/teeth_mask/252.jpg"
+    },
+    {
+      "radiograph": "Radiographs/722.JPG",
+      "segmentation": "Segmentation/teeth_mask/722.jpg"
+    },
+    {
+      "radiograph": "Radiographs/939.JPG",
+      "segmentation": "Segmentation/teeth_mask/939.jpg"
+    },
+    {
+      "radiograph": "Radiographs/795.JPG",
+      "segmentation": "Segmentation/teeth_mask/795.jpg"
+    },
+    {
+      "radiograph": "Radiographs/873.JPG",
+      "segmentation": "Segmentation/teeth_mask/873.jpg"
+    },
+    {
+      "radiograph": "Radiographs/467.JPG",
+      "segmentation": "Segmentation/teeth_mask/467.jpg"
+    },
+    {
+      "radiograph": "Radiographs/640.JPG",
+      "segmentation": "Segmentation/teeth_mask/640.jpg"
+    },
+    {
+      "radiograph": "Radiographs/566.JPG",
+      "segmentation": "Segmentation/teeth_mask/566.jpg"
+    },
+    {
+      "radiograph": "Radiographs/862.JPG",
+      "segmentation": "Segmentation/teeth_mask/862.jpg"
+    },
+    {
+      "radiograph": "Radiographs/22.JPG",
+      "segmentation": "Segmentation/teeth_mask/22.jpg"
+    },
+    {
+      "radiograph": "Radiographs/587.JPG",
+      "segmentation": "Segmentation/teeth_mask/587.jpg"
+    },
+    {
+      "radiograph": "Radiographs/515.JPG",
+      "segmentation": "Segmentation/teeth_mask/515.jpg"
+    },
+    {
+      "radiograph": "Radiographs/695.JPG",
+      "segmentation": "Segmentation/teeth_mask/695.jpg"
+    },
+    {
+      "radiograph": "Radiographs/186.JPG",
+      "segmentation": "Segmentation/teeth_mask/186.jpg"
+    },
+    {
+      "radiograph": "Radiographs/183.JPG",
+      "segmentation": "Segmentation/teeth_mask/183.jpg"
+    },
+    {
+      "radiograph": "Radiographs/570.JPG",
+      "segmentation": "Segmentation/teeth_mask/570.jpg"
+    },
+    {
+      "radiograph": "Radiographs/129.JPG",
+      "segmentation": "Segmentation/teeth_mask/129.jpg"
+    },
+    {
+      "radiograph": "Radiographs/527.JPG",
+      "segmentation": "Segmentation/teeth_mask/527.jpg"
+    },
+    {
+      "radiograph": "Radiographs/763.JPG",
+      "segmentation": "Segmentation/teeth_mask/763.jpg"
+    },
+    {
+      "radiograph": "Radiographs/145.JPG",
+      "segmentation": "Segmentation/teeth_mask/145.jpg"
+    },
+    {
+      "radiograph": "Radiographs/934.JPG",
+      "segmentation": "Segmentation/teeth_mask/934.jpg"
+    },
+    {
+      "radiograph": "Radiographs/872.JPG",
+      "segmentation": "Segmentation/teeth_mask/872.jpg"
+    },
+    {
+      "radiograph": "Radiographs/290.JPG",
+      "segmentation": "Segmentation/teeth_mask/290.jpg"
+    },
+    {
+      "radiograph": "Radiographs/119.JPG",
+      "segmentation": "Segmentation/teeth_mask/119.jpg"
+    },
+    {
+      "radiograph": "Radiographs/29.JPG",
+      "segmentation": "Segmentation/teeth_mask/29.jpg"
+    },
+    {
+      "radiograph": "Radiographs/356.JPG",
+      "segmentation": "Segmentation/teeth_mask/356.jpg"
+    },
+    {
+      "radiograph": "Radiographs/409.JPG",
+      "segmentation": "Segmentation/teeth_mask/409.jpg"
+    },
+    {
+      "radiograph": "Radiographs/818.JPG",
+      "segmentation": "Segmentation/teeth_mask/818.jpg"
+    },
+    {
+      "radiograph": "Radiographs/102.JPG",
+      "segmentation": "Segmentation/teeth_mask/102.jpg"
+    },
+    {
+      "radiograph": "Radiographs/53.JPG",
+      "segmentation": "Segmentation/teeth_mask/53.jpg"
+    },
+    {
+      "radiograph": "Radiographs/371.JPG",
+      "segmentation": "Segmentation/teeth_mask/371.jpg"
+    },
+    {
+      "radiograph": "Radiographs/633.JPG",
+      "segmentation": "Segmentation/teeth_mask/633.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1.JPG",
+      "segmentation": "Segmentation/teeth_mask/1.jpg"
+    },
+    {
+      "radiograph": "Radiographs/569.JPG",
+      "segmentation": "Segmentation/teeth_mask/569.jpg"
+    },
+    {
+      "radiograph": "Radiographs/577.JPG",
+      "segmentation": "Segmentation/teeth_mask/577.jpg"
+    },
+    {
+      "radiograph": "Radiographs/216.JPG",
+      "segmentation": "Segmentation/teeth_mask/216.jpg"
+    },
+    {
+      "radiograph": "Radiographs/809.JPG",
+      "segmentation": "Segmentation/teeth_mask/809.jpg"
+    },
+    {
+      "radiograph": "Radiographs/420.JPG",
+      "segmentation": "Segmentation/teeth_mask/420.jpg"
+    },
+    {
+      "radiograph": "Radiographs/842.JPG",
+      "segmentation": "Segmentation/teeth_mask/842.jpg"
+    },
+    {
+      "radiograph": "Radiographs/970.JPG",
+      "segmentation": "Segmentation/teeth_mask/970.jpg"
+    },
+    {
+      "radiograph": "Radiographs/9.JPG",
+      "segmentation": "Segmentation/teeth_mask/9.jpg"
+    },
+    {
+      "radiograph": "Radiographs/807.JPG",
+      "segmentation": "Segmentation/teeth_mask/807.jpg"
+    },
+    {
+      "radiograph": "Radiographs/999.JPG",
+      "segmentation": "Segmentation/teeth_mask/999.jpg"
+    },
+    {
+      "radiograph": "Radiographs/348.JPG",
+      "segmentation": "Segmentation/teeth_mask/348.jpg"
+    },
+    {
+      "radiograph": "Radiographs/658.JPG",
+      "segmentation": "Segmentation/teeth_mask/658.jpg"
+    },
+    {
+      "radiograph": "Radiographs/164.JPG",
+      "segmentation": "Segmentation/teeth_mask/164.jpg"
+    },
+    {
+      "radiograph": "Radiographs/547.JPG",
+      "segmentation": "Segmentation/teeth_mask/547.jpg"
+    },
+    {
+      "radiograph": "Radiographs/231.JPG",
+      "segmentation": "Segmentation/teeth_mask/231.jpg"
+    },
+    {
+      "radiograph": "Radiographs/791.JPG",
+      "segmentation": "Segmentation/teeth_mask/791.jpg"
+    },
+    {
+      "radiograph": "Radiographs/540.JPG",
+      "segmentation": "Segmentation/teeth_mask/540.jpg"
+    },
+    {
+      "radiograph": "Radiographs/931.JPG",
+      "segmentation": "Segmentation/teeth_mask/931.jpg"
+    },
+    {
+      "radiograph": "Radiographs/750.JPG",
+      "segmentation": "Segmentation/teeth_mask/750.jpg"
+    },
+    {
+      "radiograph": "Radiographs/753.JPG",
+      "segmentation": "Segmentation/teeth_mask/753.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1001.JPG",
+      "segmentation": "Segmentation/teeth_mask/1001.jpg"
+    },
+    {
+      "radiograph": "Radiographs/911.JPG",
+      "segmentation": "Segmentation/teeth_mask/911.jpg"
+    },
+    {
+      "radiograph": "Radiographs/212.JPG",
+      "segmentation": "Segmentation/teeth_mask/212.jpg"
+    },
+    {
+      "radiograph": "Radiographs/478.JPG",
+      "segmentation": "Segmentation/teeth_mask/478.jpg"
+    },
+    {
+      "radiograph": "Radiographs/932.JPG",
+      "segmentation": "Segmentation/teeth_mask/932.jpg"
+    },
+    {
+      "radiograph": "Radiographs/998.JPG",
+      "segmentation": "Segmentation/teeth_mask/998.jpg"
+    },
+    {
+      "radiograph": "Radiographs/954.JPG",
+      "segmentation": "Segmentation/teeth_mask/954.jpg"
+    },
+    {
+      "radiograph": "Radiographs/675.JPG",
+      "segmentation": "Segmentation/teeth_mask/675.jpg"
+    },
+    {
+      "radiograph": "Radiographs/799.JPG",
+      "segmentation": "Segmentation/teeth_mask/799.jpg"
+    },
+    {
+      "radiograph": "Radiographs/903.JPG",
+      "segmentation": "Segmentation/teeth_mask/903.jpg"
+    },
+    {
+      "radiograph": "Radiographs/780.JPG",
+      "segmentation": "Segmentation/teeth_mask/780.jpg"
+    },
+    {
+      "radiograph": "Radiographs/937.JPG",
+      "segmentation": "Segmentation/teeth_mask/937.jpg"
+    },
+    {
+      "radiograph": "Radiographs/715.JPG",
+      "segmentation": "Segmentation/teeth_mask/715.jpg"
+    },
+    {
+      "radiograph": "Radiographs/172.JPG",
+      "segmentation": "Segmentation/teeth_mask/172.jpg"
+    },
+    {
+      "radiograph": "Radiographs/752.JPG",
+      "segmentation": "Segmentation/teeth_mask/752.jpg"
+    },
+    {
+      "radiograph": "Radiographs/839.JPG",
+      "segmentation": "Segmentation/teeth_mask/839.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1011.JPG",
+      "segmentation": "Segmentation/teeth_mask/1011.jpg"
+    },
+    {
+      "radiograph": "Radiographs/590.JPG",
+      "segmentation": "Segmentation/teeth_mask/590.jpg"
+    },
+    {
+      "radiograph": "Radiographs/300.JPG",
+      "segmentation": "Segmentation/teeth_mask/300.jpg"
+    },
+    {
+      "radiograph": "Radiographs/567.JPG",
+      "segmentation": "Segmentation/teeth_mask/567.jpg"
+    },
+    {
+      "radiograph": "Radiographs/509.JPG",
+      "segmentation": "Segmentation/teeth_mask/509.jpg"
+    },
+    {
+      "radiograph": "Radiographs/961.JPG",
+      "segmentation": "Segmentation/teeth_mask/961.jpg"
+    },
+    {
+      "radiograph": "Radiographs/428.JPG",
+      "segmentation": "Segmentation/teeth_mask/428.jpg"
+    },
+    {
+      "radiograph": "Radiographs/431.JPG",
+      "segmentation": "Segmentation/teeth_mask/431.jpg"
+    },
+    {
+      "radiograph": "Radiographs/124.JPG",
+      "segmentation": "Segmentation/teeth_mask/124.jpg"
+    },
+    {
+      "radiograph": "Radiographs/630.JPG",
+      "segmentation": "Segmentation/teeth_mask/630.jpg"
+    },
+    {
+      "radiograph": "Radiographs/955.JPG",
+      "segmentation": "Segmentation/teeth_mask/955.jpg"
+    },
+    {
+      "radiograph": "Radiographs/713.JPG",
+      "segmentation": "Segmentation/teeth_mask/713.jpg"
+    },
+    {
+      "radiograph": "Radiographs/820.JPG",
+      "segmentation": "Segmentation/teeth_mask/820.jpg"
+    },
+    {
+      "radiograph": "Radiographs/957.JPG",
+      "segmentation": "Segmentation/teeth_mask/957.jpg"
+    },
+    {
+      "radiograph": "Radiographs/66.JPG",
+      "segmentation": "Segmentation/teeth_mask/66.jpg"
+    },
+    {
+      "radiograph": "Radiographs/208.JPG",
+      "segmentation": "Segmentation/teeth_mask/208.jpg"
+    },
+    {
+      "radiograph": "Radiographs/168.JPG",
+      "segmentation": "Segmentation/teeth_mask/168.jpg"
+    },
+    {
+      "radiograph": "Radiographs/108.JPG",
+      "segmentation": "Segmentation/teeth_mask/108.jpg"
+    },
+    {
+      "radiograph": "Radiographs/785.JPG",
+      "segmentation": "Segmentation/teeth_mask/785.jpg"
+    },
+    {
+      "radiograph": "Radiographs/150.JPG",
+      "segmentation": "Segmentation/teeth_mask/150.jpg"
+    },
+    {
+      "radiograph": "Radiographs/534.JPG",
+      "segmentation": "Segmentation/teeth_mask/534.jpg"
+    },
+    {
+      "radiograph": "Radiographs/549.JPG",
+      "segmentation": "Segmentation/teeth_mask/549.jpg"
+    },
+    {
+      "radiograph": "Radiographs/195.JPG",
+      "segmentation": "Segmentation/teeth_mask/195.jpg"
+    },
+    {
+      "radiograph": "Radiographs/888.JPG",
+      "segmentation": "Segmentation/teeth_mask/888.jpg"
+    },
+    {
+      "radiograph": "Radiographs/927.JPG",
+      "segmentation": "Segmentation/teeth_mask/927.jpg"
+    },
+    {
+      "radiograph": "Radiographs/444.JPG",
+      "segmentation": "Segmentation/teeth_mask/444.jpg"
+    },
+    {
+      "radiograph": "Radiographs/619.JPG",
+      "segmentation": "Segmentation/teeth_mask/619.jpg"
+    },
+    {
+      "radiograph": "Radiographs/471.JPG",
+      "segmentation": "Segmentation/teeth_mask/471.jpg"
+    },
+    {
+      "radiograph": "Radiographs/62.JPG",
+      "segmentation": "Segmentation/teeth_mask/62.jpg"
+    },
+    {
+      "radiograph": "Radiographs/777.JPG",
+      "segmentation": "Segmentation/teeth_mask/777.jpg"
+    },
+    {
+      "radiograph": "Radiographs/311.JPG",
+      "segmentation": "Segmentation/teeth_mask/311.jpg"
+    },
+    {
+      "radiograph": "Radiographs/576.JPG",
+      "segmentation": "Segmentation/teeth_mask/576.jpg"
+    },
+    {
+      "radiograph": "Radiographs/971.JPG",
+      "segmentation": "Segmentation/teeth_mask/971.jpg"
+    },
+    {
+      "radiograph": "Radiographs/775.JPG",
+      "segmentation": "Segmentation/teeth_mask/775.jpg"
+    },
+    {
+      "radiograph": "Radiographs/296.JPG",
+      "segmentation": "Segmentation/teeth_mask/296.jpg"
+    },
+    {
+      "radiograph": "Radiographs/991.JPG",
+      "segmentation": "Segmentation/teeth_mask/991.jpg"
+    },
+    {
+      "radiograph": "Radiographs/314.JPG",
+      "segmentation": "Segmentation/teeth_mask/314.jpg"
+    },
+    {
+      "radiograph": "Radiographs/2.JPG",
+      "segmentation": "Segmentation/teeth_mask/2.jpg"
+    },
+    {
+      "radiograph": "Radiographs/50.JPG",
+      "segmentation": "Segmentation/teeth_mask/50.jpg"
+    },
+    {
+      "radiograph": "Radiographs/677.JPG",
+      "segmentation": "Segmentation/teeth_mask/677.jpg"
+    },
+    {
+      "radiograph": "Radiographs/441.JPG",
+      "segmentation": "Segmentation/teeth_mask/441.jpg"
+    },
+    {
+      "radiograph": "Radiographs/54.JPG",
+      "segmentation": "Segmentation/teeth_mask/54.jpg"
+    },
+    {
+      "radiograph": "Radiographs/690.JPG",
+      "segmentation": "Segmentation/teeth_mask/690.jpg"
+    },
+    {
+      "radiograph": "Radiographs/263.JPG",
+      "segmentation": "Segmentation/teeth_mask/263.jpg"
+    },
+    {
+      "radiograph": "Radiographs/363.JPG",
+      "segmentation": "Segmentation/teeth_mask/363.jpg"
+    },
+    {
+      "radiograph": "Radiographs/75.JPG",
+      "segmentation": "Segmentation/teeth_mask/75.jpg"
+    },
+    {
+      "radiograph": "Radiographs/603.JPG",
+      "segmentation": "Segmentation/teeth_mask/603.jpg"
+    },
+    {
+      "radiograph": "Radiographs/262.JPG",
+      "segmentation": "Segmentation/teeth_mask/262.jpg"
+    },
+    {
+      "radiograph": "Radiographs/126.JPG",
+      "segmentation": "Segmentation/teeth_mask/126.jpg"
+    },
+    {
+      "radiograph": "Radiographs/318.JPG",
+      "segmentation": "Segmentation/teeth_mask/318.jpg"
+    },
+    {
+      "radiograph": "Radiographs/446.JPG",
+      "segmentation": "Segmentation/teeth_mask/446.jpg"
+    },
+    {
+      "radiograph": "Radiographs/364.JPG",
+      "segmentation": "Segmentation/teeth_mask/364.jpg"
+    },
+    {
+      "radiograph": "Radiographs/833.JPG",
+      "segmentation": "Segmentation/teeth_mask/833.jpg"
+    },
+    {
+      "radiograph": "Radiographs/981.JPG",
+      "segmentation": "Segmentation/teeth_mask/981.jpg"
+    },
+    {
+      "radiograph": "Radiographs/849.JPG",
+      "segmentation": "Segmentation/teeth_mask/849.jpg"
+    },
+    {
+      "radiograph": "Radiographs/28.JPG",
+      "segmentation": "Segmentation/teeth_mask/28.jpg"
+    },
+    {
+      "radiograph": "Radiographs/117.JPG",
+      "segmentation": "Segmentation/teeth_mask/117.jpg"
+    },
+    {
+      "radiograph": "Radiographs/805.JPG",
+      "segmentation": "Segmentation/teeth_mask/805.jpg"
+    },
+    {
+      "radiograph": "Radiographs/798.JPG",
+      "segmentation": "Segmentation/teeth_mask/798.jpg"
+    },
+    {
+      "radiograph": "Radiographs/870.JPG",
+      "segmentation": "Segmentation/teeth_mask/870.jpg"
+    },
+    {
+      "radiograph": "Radiographs/372.JPG",
+      "segmentation": "Segmentation/teeth_mask/372.jpg"
+    },
+    {
+      "radiograph": "Radiographs/718.JPG",
+      "segmentation": "Segmentation/teeth_mask/718.jpg"
+    },
+    {
+      "radiograph": "Radiographs/270.JPG",
+      "segmentation": "Segmentation/teeth_mask/270.jpg"
+    },
+    {
+      "radiograph": "Radiographs/594.JPG",
+      "segmentation": "Segmentation/teeth_mask/594.jpg"
+    },
+    {
+      "radiograph": "Radiographs/720.JPG",
+      "segmentation": "Segmentation/teeth_mask/720.jpg"
+    },
+    {
+      "radiograph": "Radiographs/674.JPG",
+      "segmentation": "Segmentation/teeth_mask/674.jpg"
+    },
+    {
+      "radiograph": "Radiographs/320.JPG",
+      "segmentation": "Segmentation/teeth_mask/320.jpg"
+    },
+    {
+      "radiograph": "Radiographs/426.JPG",
+      "segmentation": "Segmentation/teeth_mask/426.jpg"
+    },
+    {
+      "radiograph": "Radiographs/503.JPG",
+      "segmentation": "Segmentation/teeth_mask/503.jpg"
+    },
+    {
+      "radiograph": "Radiographs/218.JPG",
+      "segmentation": "Segmentation/teeth_mask/218.jpg"
+    },
+    {
+      "radiograph": "Radiographs/993.JPG",
+      "segmentation": "Segmentation/teeth_mask/993.jpg"
+    },
+    {
+      "radiograph": "Radiographs/760.JPG",
+      "segmentation": "Segmentation/teeth_mask/760.jpg"
+    },
+    {
+      "radiograph": "Radiographs/571.JPG",
+      "segmentation": "Segmentation/teeth_mask/571.jpg"
+    },
+    {
+      "radiograph": "Radiographs/225.JPG",
+      "segmentation": "Segmentation/teeth_mask/225.jpg"
+    },
+    {
+      "radiograph": "Radiographs/910.JPG",
+      "segmentation": "Segmentation/teeth_mask/910.jpg"
+    },
+    {
+      "radiograph": "Radiographs/642.JPG",
+      "segmentation": "Segmentation/teeth_mask/642.jpg"
+    },
+    {
+      "radiograph": "Radiographs/132.JPG",
+      "segmentation": "Segmentation/teeth_mask/132.jpg"
+    },
+    {
+      "radiograph": "Radiographs/681.JPG",
+      "segmentation": "Segmentation/teeth_mask/681.jpg"
+    },
+    {
+      "radiograph": "Radiographs/716.JPG",
+      "segmentation": "Segmentation/teeth_mask/716.jpg"
+    },
+    {
+      "radiograph": "Radiographs/968.JPG",
+      "segmentation": "Segmentation/teeth_mask/968.jpg"
+    },
+    {
+      "radiograph": "Radiographs/316.JPG",
+      "segmentation": "Segmentation/teeth_mask/316.jpg"
+    },
+    {
+      "radiograph": "Radiographs/704.JPG",
+      "segmentation": "Segmentation/teeth_mask/704.jpg"
+    },
+    {
+      "radiograph": "Radiographs/260.JPG",
+      "segmentation": "Segmentation/teeth_mask/260.jpg"
+    },
+    {
+      "radiograph": "Radiographs/400.JPG",
+      "segmentation": "Segmentation/teeth_mask/400.jpg"
+    },
+    {
+      "radiograph": "Radiographs/418.JPG",
+      "segmentation": "Segmentation/teeth_mask/418.jpg"
+    },
+    {
+      "radiograph": "Radiographs/217.JPG",
+      "segmentation": "Segmentation/teeth_mask/217.jpg"
+    },
+    {
+      "radiograph": "Radiographs/411.JPG",
+      "segmentation": "Segmentation/teeth_mask/411.jpg"
+    },
+    {
+      "radiograph": "Radiographs/861.JPG",
+      "segmentation": "Segmentation/teeth_mask/861.jpg"
+    },
+    {
+      "radiograph": "Radiographs/667.JPG",
+      "segmentation": "Segmentation/teeth_mask/667.jpg"
+    },
+    {
+      "radiograph": "Radiographs/496.JPG",
+      "segmentation": "Segmentation/teeth_mask/496.jpg"
+    },
+    {
+      "radiograph": "Radiographs/953.JPG",
+      "segmentation": "Segmentation/teeth_mask/953.jpg"
+    },
+    {
+      "radiograph": "Radiographs/947.JPG",
+      "segmentation": "Segmentation/teeth_mask/947.jpg"
+    },
+    {
+      "radiograph": "Radiographs/16.JPG",
+      "segmentation": "Segmentation/teeth_mask/16.jpg"
+    },
+    {
+      "radiograph": "Radiographs/893.JPG",
+      "segmentation": "Segmentation/teeth_mask/893.jpg"
+    },
+    {
+      "radiograph": "Radiographs/976.JPG",
+      "segmentation": "Segmentation/teeth_mask/976.jpg"
+    },
+    {
+      "radiograph": "Radiographs/882.JPG",
+      "segmentation": "Segmentation/teeth_mask/882.jpg"
+    },
+    {
+      "radiograph": "Radiographs/14.JPG",
+      "segmentation": "Segmentation/teeth_mask/14.jpg"
+    },
+    {
+      "radiograph": "Radiographs/34.JPG",
+      "segmentation": "Segmentation/teeth_mask/34.jpg"
+    },
+    {
+      "radiograph": "Radiographs/802.JPG",
+      "segmentation": "Segmentation/teeth_mask/802.jpg"
+    },
+    {
+      "radiograph": "Radiographs/279.JPG",
+      "segmentation": "Segmentation/teeth_mask/279.jpg"
+    },
+    {
+      "radiograph": "Radiographs/697.JPG",
+      "segmentation": "Segmentation/teeth_mask/697.jpg"
+    },
+    {
+      "radiograph": "Radiographs/106.JPG",
+      "segmentation": "Segmentation/teeth_mask/106.jpg"
+    },
+    {
+      "radiograph": "Radiographs/13.JPG",
+      "segmentation": "Segmentation/teeth_mask/13.jpg"
+    },
+    {
+      "radiograph": "Radiographs/737.JPG",
+      "segmentation": "Segmentation/teeth_mask/737.jpg"
+    },
+    {
+      "radiograph": "Radiographs/244.JPG",
+      "segmentation": "Segmentation/teeth_mask/244.jpg"
+    },
+    {
+      "radiograph": "Radiographs/613.JPG",
+      "segmentation": "Segmentation/teeth_mask/613.jpg"
+    },
+    {
+      "radiograph": "Radiographs/408.JPG",
+      "segmentation": "Segmentation/teeth_mask/408.jpg"
+    },
+    {
+      "radiograph": "Radiographs/889.JPG",
+      "segmentation": "Segmentation/teeth_mask/889.jpg"
+    },
+    {
+      "radiograph": "Radiographs/91.JPG",
+      "segmentation": "Segmentation/teeth_mask/91.jpg"
+    },
+    {
+      "radiograph": "Radiographs/651.JPG",
+      "segmentation": "Segmentation/teeth_mask/651.jpg"
+    },
+    {
+      "radiograph": "Radiographs/660.JPG",
+      "segmentation": "Segmentation/teeth_mask/660.jpg"
+    },
+    {
+      "radiograph": "Radiographs/856.JPG",
+      "segmentation": "Segmentation/teeth_mask/856.jpg"
+    },
+    {
+      "radiograph": "Radiographs/343.JPG",
+      "segmentation": "Segmentation/teeth_mask/343.jpg"
+    },
+    {
+      "radiograph": "Radiographs/59.JPG",
+      "segmentation": "Segmentation/teeth_mask/59.jpg"
+    },
+    {
+      "radiograph": "Radiographs/139.JPG",
+      "segmentation": "Segmentation/teeth_mask/139.jpg"
+    },
+    {
+      "radiograph": "Radiographs/425.JPG",
+      "segmentation": "Segmentation/teeth_mask/425.jpg"
+    },
+    {
+      "radiograph": "Radiographs/182.JPG",
+      "segmentation": "Segmentation/teeth_mask/182.jpg"
+    },
+    {
+      "radiograph": "Radiographs/574.JPG",
+      "segmentation": "Segmentation/teeth_mask/574.jpg"
+    },
+    {
+      "radiograph": "Radiographs/500.JPG",
+      "segmentation": "Segmentation/teeth_mask/500.jpg"
+    },
+    {
+      "radiograph": "Radiographs/761.JPG",
+      "segmentation": "Segmentation/teeth_mask/761.jpg"
+    },
+    {
+      "radiograph": "Radiographs/105.JPG",
+      "segmentation": "Segmentation/teeth_mask/105.jpg"
+    },
+    {
+      "radiograph": "Radiographs/835.JPG",
+      "segmentation": "Segmentation/teeth_mask/835.jpg"
+    },
+    {
+      "radiograph": "Radiographs/312.JPG",
+      "segmentation": "Segmentation/teeth_mask/312.jpg"
+    },
+    {
+      "radiograph": "Radiographs/638.JPG",
+      "segmentation": "Segmentation/teeth_mask/638.jpg"
+    },
+    {
+      "radiograph": "Radiographs/391.JPG",
+      "segmentation": "Segmentation/teeth_mask/391.jpg"
+    },
+    {
+      "radiograph": "Radiographs/875.JPG",
+      "segmentation": "Segmentation/teeth_mask/875.jpg"
+    },
+    {
+      "radiograph": "Radiographs/404.JPG",
+      "segmentation": "Segmentation/teeth_mask/404.jpg"
+    },
+    {
+      "radiograph": "Radiographs/156.JPG",
+      "segmentation": "Segmentation/teeth_mask/156.jpg"
+    },
+    {
+      "radiograph": "Radiographs/427.JPG",
+      "segmentation": "Segmentation/teeth_mask/427.jpg"
+    },
+    {
+      "radiograph": "Radiographs/151.JPG",
+      "segmentation": "Segmentation/teeth_mask/151.jpg"
+    },
+    {
+      "radiograph": "Radiographs/99.JPG",
+      "segmentation": "Segmentation/teeth_mask/99.jpg"
+    },
+    {
+      "radiograph": "Radiographs/383.JPG",
+      "segmentation": "Segmentation/teeth_mask/383.jpg"
+    },
+    {
+      "radiograph": "Radiographs/792.JPG",
+      "segmentation": "Segmentation/teeth_mask/792.jpg"
+    },
+    {
+      "radiograph": "Radiographs/266.JPG",
+      "segmentation": "Segmentation/teeth_mask/266.jpg"
+    },
+    {
+      "radiograph": "Radiographs/210.JPG",
+      "segmentation": "Segmentation/teeth_mask/210.jpg"
+    },
+    {
+      "radiograph": "Radiographs/962.JPG",
+      "segmentation": "Segmentation/teeth_mask/962.jpg"
+    },
+    {
+      "radiograph": "Radiographs/388.JPG",
+      "segmentation": "Segmentation/teeth_mask/388.jpg"
+    },
+    {
+      "radiograph": "Radiographs/982.JPG",
+      "segmentation": "Segmentation/teeth_mask/982.jpg"
+    },
+    {
+      "radiograph": "Radiographs/730.JPG",
+      "segmentation": "Segmentation/teeth_mask/730.jpg"
+    },
+    {
+      "radiograph": "Radiographs/214.JPG",
+      "segmentation": "Segmentation/teeth_mask/214.jpg"
+    },
+    {
+      "radiograph": "Radiographs/834.JPG",
+      "segmentation": "Segmentation/teeth_mask/834.jpg"
+    },
+    {
+      "radiograph": "Radiographs/789.JPG",
+      "segmentation": "Segmentation/teeth_mask/789.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1007.JPG",
+      "segmentation": "Segmentation/teeth_mask/1007.jpg"
+    },
+    {
+      "radiograph": "Radiographs/896.JPG",
+      "segmentation": "Segmentation/teeth_mask/896.jpg"
+    },
+    {
+      "radiograph": "Radiographs/837.JPG",
+      "segmentation": "Segmentation/teeth_mask/837.jpg"
+    },
+    {
+      "radiograph": "Radiographs/329.JPG",
+      "segmentation": "Segmentation/teeth_mask/329.jpg"
+    },
+    {
+      "radiograph": "Radiographs/624.JPG",
+      "segmentation": "Segmentation/teeth_mask/624.jpg"
+    },
+    {
+      "radiograph": "Radiographs/491.JPG",
+      "segmentation": "Segmentation/teeth_mask/491.jpg"
+    },
+    {
+      "radiograph": "Radiographs/271.JPG",
+      "segmentation": "Segmentation/teeth_mask/271.jpg"
+    },
+    {
+      "radiograph": "Radiographs/463.JPG",
+      "segmentation": "Segmentation/teeth_mask/463.jpg"
+    },
+    {
+      "radiograph": "Radiographs/986.JPG",
+      "segmentation": "Segmentation/teeth_mask/986.jpg"
+    },
+    {
+      "radiograph": "Radiographs/734.JPG",
+      "segmentation": "Segmentation/teeth_mask/734.jpg"
+    },
+    {
+      "radiograph": "Radiographs/683.JPG",
+      "segmentation": "Segmentation/teeth_mask/683.jpg"
+    },
+    {
+      "radiograph": "Radiographs/748.JPG",
+      "segmentation": "Segmentation/teeth_mask/748.jpg"
+    },
+    {
+      "radiograph": "Radiographs/250.JPG",
+      "segmentation": "Segmentation/teeth_mask/250.jpg"
+    },
+    {
+      "radiograph": "Radiographs/598.JPG",
+      "segmentation": "Segmentation/teeth_mask/598.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1030.JPG",
+      "segmentation": "Segmentation/teeth_mask/1030.jpg"
+    },
+    {
+      "radiograph": "Radiographs/636.JPG",
+      "segmentation": "Segmentation/teeth_mask/636.jpg"
+    },
+    {
+      "radiograph": "Radiographs/545.JPG",
+      "segmentation": "Segmentation/teeth_mask/545.jpg"
+    },
+    {
+      "radiograph": "Radiographs/283.JPG",
+      "segmentation": "Segmentation/teeth_mask/283.jpg"
+    },
+    {
+      "radiograph": "Radiographs/27.JPG",
+      "segmentation": "Segmentation/teeth_mask/27.jpg"
+    },
+    {
+      "radiograph": "Radiographs/152.JPG",
+      "segmentation": "Segmentation/teeth_mask/152.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1034.JPG",
+      "segmentation": "Segmentation/teeth_mask/1034.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1036.JPG",
+      "segmentation": "Segmentation/teeth_mask/1036.jpg"
+    },
+    {
+      "radiograph": "Radiographs/466.JPG",
+      "segmentation": "Segmentation/teeth_mask/466.jpg"
+    },
+    {
+      "radiograph": "Radiographs/625.JPG",
+      "segmentation": "Segmentation/teeth_mask/625.jpg"
+    },
+    {
+      "radiograph": "Radiographs/147.JPG",
+      "segmentation": "Segmentation/teeth_mask/147.jpg"
+    },
+    {
+      "radiograph": "Radiographs/583.JPG",
+      "segmentation": "Segmentation/teeth_mask/583.jpg"
+    },
+    {
+      "radiograph": "Radiographs/916.JPG",
+      "segmentation": "Segmentation/teeth_mask/916.jpg"
+    },
+    {
+      "radiograph": "Radiographs/771.JPG",
+      "segmentation": "Segmentation/teeth_mask/771.jpg"
+    },
+    {
+      "radiograph": "Radiographs/71.JPG",
+      "segmentation": "Segmentation/teeth_mask/71.jpg"
+    },
+    {
+      "radiograph": "Radiographs/160.JPG",
+      "segmentation": "Segmentation/teeth_mask/160.jpg"
+    },
+    {
+      "radiograph": "Radiographs/768.JPG",
+      "segmentation": "Segmentation/teeth_mask/768.jpg"
+    },
+    {
+      "radiograph": "Radiographs/196.JPG",
+      "segmentation": "Segmentation/teeth_mask/196.jpg"
+    },
+    {
+      "radiograph": "Radiographs/274.JPG",
+      "segmentation": "Segmentation/teeth_mask/274.jpg"
+    },
+    {
+      "radiograph": "Radiographs/294.JPG",
+      "segmentation": "Segmentation/teeth_mask/294.jpg"
+    },
+    {
+      "radiograph": "Radiographs/325.JPG",
+      "segmentation": "Segmentation/teeth_mask/325.jpg"
+    },
+    {
+      "radiograph": "Radiographs/772.JPG",
+      "segmentation": "Segmentation/teeth_mask/772.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1028.JPG",
+      "segmentation": "Segmentation/teeth_mask/1028.jpg"
+    },
+    {
+      "radiograph": "Radiographs/17.JPG",
+      "segmentation": "Segmentation/teeth_mask/17.jpg"
+    },
+    {
+      "radiograph": "Radiographs/673.JPG",
+      "segmentation": "Segmentation/teeth_mask/673.jpg"
+    }
+  ],
+  "test": [
+    {
+      "radiograph": "Radiographs/788.JPG",
+      "segmentation": "Segmentation/teeth_mask/788.jpg"
+    },
+    {
+      "radiograph": "Radiographs/536.JPG",
+      "segmentation": "Segmentation/teeth_mask/536.jpg"
+    },
+    {
+      "radiograph": "Radiographs/90.JPG",
+      "segmentation": "Segmentation/teeth_mask/90.jpg"
+    },
+    {
+      "radiograph": "Radiographs/924.JPG",
+      "segmentation": "Segmentation/teeth_mask/924.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1037.JPG",
+      "segmentation": "Segmentation/teeth_mask/1037.jpg"
+    },
+    {
+      "radiograph": "Radiographs/512.JPG",
+      "segmentation": "Segmentation/teeth_mask/512.jpg"
+    },
+    {
+      "radiograph": "Radiographs/143.JPG",
+      "segmentation": "Segmentation/teeth_mask/143.jpg"
+    },
+    {
+      "radiograph": "Radiographs/764.JPG",
+      "segmentation": "Segmentation/teeth_mask/764.jpg"
+    },
+    {
+      "radiograph": "Radiographs/393.JPG",
+      "segmentation": "Segmentation/teeth_mask/393.jpg"
+    },
+    {
+      "radiograph": "Radiographs/550.JPG",
+      "segmentation": "Segmentation/teeth_mask/550.jpg"
+    },
+    {
+      "radiograph": "Radiographs/233.JPG",
+      "segmentation": "Segmentation/teeth_mask/233.jpg"
+    },
+    {
+      "radiograph": "Radiographs/819.JPG",
+      "segmentation": "Segmentation/teeth_mask/819.jpg"
+    },
+    {
+      "radiograph": "Radiographs/453.JPG",
+      "segmentation": "Segmentation/teeth_mask/453.jpg"
+    },
+    {
+      "radiograph": "Radiographs/635.JPG",
+      "segmentation": "Segmentation/teeth_mask/635.jpg"
+    },
+    {
+      "radiograph": "Radiographs/700.JPG",
+      "segmentation": "Segmentation/teeth_mask/700.jpg"
+    },
+    {
+      "radiograph": "Radiographs/530.JPG",
+      "segmentation": "Segmentation/teeth_mask/530.jpg"
+    },
+    {
+      "radiograph": "Radiographs/773.JPG",
+      "segmentation": "Segmentation/teeth_mask/773.jpg"
+    },
+    {
+      "radiograph": "Radiographs/109.JPG",
+      "segmentation": "Segmentation/teeth_mask/109.jpg"
+    },
+    {
+      "radiograph": "Radiographs/747.JPG",
+      "segmentation": "Segmentation/teeth_mask/747.jpg"
+    },
+    {
+      "radiograph": "Radiographs/376.JPG",
+      "segmentation": "Segmentation/teeth_mask/376.jpg"
+    },
+    {
+      "radiograph": "Radiographs/482.JPG",
+      "segmentation": "Segmentation/teeth_mask/482.jpg"
+    },
+    {
+      "radiograph": "Radiographs/800.JPG",
+      "segmentation": "Segmentation/teeth_mask/800.jpg"
+    },
+    {
+      "radiograph": "Radiographs/39.JPG",
+      "segmentation": "Segmentation/teeth_mask/39.jpg"
+    },
+    {
+      "radiograph": "Radiographs/499.JPG",
+      "segmentation": "Segmentation/teeth_mask/499.jpg"
+    },
+    {
+      "radiograph": "Radiographs/641.JPG",
+      "segmentation": "Segmentation/teeth_mask/641.jpg"
+    },
+    {
+      "radiograph": "Radiographs/506.JPG",
+      "segmentation": "Segmentation/teeth_mask/506.jpg"
+    },
+    {
+      "radiograph": "Radiographs/634.JPG",
+      "segmentation": "Segmentation/teeth_mask/634.jpg"
+    },
+    {
+      "radiograph": "Radiographs/58.JPG",
+      "segmentation": "Segmentation/teeth_mask/58.jpg"
+    },
+    {
+      "radiograph": "Radiographs/402.JPG",
+      "segmentation": "Segmentation/teeth_mask/402.jpg"
+    },
+    {
+      "radiograph": "Radiographs/782.JPG",
+      "segmentation": "Segmentation/teeth_mask/782.jpg"
+    },
+    {
+      "radiograph": "Radiographs/649.JPG",
+      "segmentation": "Segmentation/teeth_mask/649.jpg"
+    },
+    {
+      "radiograph": "Radiographs/940.JPG",
+      "segmentation": "Segmentation/teeth_mask/940.jpg"
+    },
+    {
+      "radiograph": "Radiographs/808.JPG",
+      "segmentation": "Segmentation/teeth_mask/808.jpg"
+    },
+    {
+      "radiograph": "Radiographs/526.JPG",
+      "segmentation": "Segmentation/teeth_mask/526.jpg"
+    },
+    {
+      "radiograph": "Radiographs/926.JPG",
+      "segmentation": "Segmentation/teeth_mask/926.jpg"
+    },
+    {
+      "radiograph": "Radiographs/407.JPG",
+      "segmentation": "Segmentation/teeth_mask/407.jpg"
+    },
+    {
+      "radiograph": "Radiographs/618.JPG",
+      "segmentation": "Segmentation/teeth_mask/618.jpg"
+    },
+    {
+      "radiograph": "Radiographs/736.JPG",
+      "segmentation": "Segmentation/teeth_mask/736.jpg"
+    },
+    {
+      "radiograph": "Radiographs/113.JPG",
+      "segmentation": "Segmentation/teeth_mask/113.jpg"
+    },
+    {
+      "radiograph": "Radiographs/460.JPG",
+      "segmentation": "Segmentation/teeth_mask/460.jpg"
+    },
+    {
+      "radiograph": "Radiographs/116.JPG",
+      "segmentation": "Segmentation/teeth_mask/116.jpg"
+    },
+    {
+      "radiograph": "Radiographs/307.JPG",
+      "segmentation": "Segmentation/teeth_mask/307.jpg"
+    },
+    {
+      "radiograph": "Radiographs/784.JPG",
+      "segmentation": "Segmentation/teeth_mask/784.jpg"
+    },
+    {
+      "radiograph": "Radiographs/234.JPG",
+      "segmentation": "Segmentation/teeth_mask/234.jpg"
+    },
+    {
+      "radiograph": "Radiographs/498.JPG",
+      "segmentation": "Segmentation/teeth_mask/498.jpg"
+    },
+    {
+      "radiograph": "Radiographs/80.JPG",
+      "segmentation": "Segmentation/teeth_mask/80.jpg"
+    },
+    {
+      "radiograph": "Radiographs/224.JPG",
+      "segmentation": "Segmentation/teeth_mask/224.jpg"
+    },
+    {
+      "radiograph": "Radiographs/202.JPG",
+      "segmentation": "Segmentation/teeth_mask/202.jpg"
+    },
+    {
+      "radiograph": "Radiographs/755.JPG",
+      "segmentation": "Segmentation/teeth_mask/755.jpg"
+    },
+    {
+      "radiograph": "Radiographs/169.JPG",
+      "segmentation": "Segmentation/teeth_mask/169.jpg"
+    },
+    {
+      "radiograph": "Radiographs/462.JPG",
+      "segmentation": "Segmentation/teeth_mask/462.jpg"
+    },
+    {
+      "radiograph": "Radiographs/963.JPG",
+      "segmentation": "Segmentation/teeth_mask/963.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1018.JPG",
+      "segmentation": "Segmentation/teeth_mask/1018.jpg"
+    },
+    {
+      "radiograph": "Radiographs/238.JPG",
+      "segmentation": "Segmentation/teeth_mask/238.jpg"
+    },
+    {
+      "radiograph": "Radiographs/45.JPG",
+      "segmentation": "Segmentation/teeth_mask/45.jpg"
+    },
+    {
+      "radiograph": "Radiographs/611.JPG",
+      "segmentation": "Segmentation/teeth_mask/611.jpg"
+    },
+    {
+      "radiograph": "Radiographs/684.JPG",
+      "segmentation": "Segmentation/teeth_mask/684.jpg"
+    },
+    {
+      "radiograph": "Radiographs/776.JPG",
+      "segmentation": "Segmentation/teeth_mask/776.jpg"
+    },
+    {
+      "radiograph": "Radiographs/267.JPG",
+      "segmentation": "Segmentation/teeth_mask/267.jpg"
+    },
+    {
+      "radiograph": "Radiographs/609.JPG",
+      "segmentation": "Segmentation/teeth_mask/609.jpg"
+    },
+    {
+      "radiograph": "Radiographs/604.JPG",
+      "segmentation": "Segmentation/teeth_mask/604.jpg"
+    },
+    {
+      "radiograph": "Radiographs/342.JPG",
+      "segmentation": "Segmentation/teeth_mask/342.jpg"
+    },
+    {
+      "radiograph": "Radiographs/656.JPG",
+      "segmentation": "Segmentation/teeth_mask/656.jpg"
+    },
+    {
+      "radiograph": "Radiographs/424.JPG",
+      "segmentation": "Segmentation/teeth_mask/424.jpg"
+    },
+    {
+      "radiograph": "Radiographs/401.JPG",
+      "segmentation": "Segmentation/teeth_mask/401.jpg"
+    },
+    {
+      "radiograph": "Radiographs/886.JPG",
+      "segmentation": "Segmentation/teeth_mask/886.jpg"
+    },
+    {
+      "radiograph": "Radiographs/374.JPG",
+      "segmentation": "Segmentation/teeth_mask/374.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1016.JPG",
+      "segmentation": "Segmentation/teeth_mask/1016.jpg"
+    },
+    {
+      "radiograph": "Radiographs/25.JPG",
+      "segmentation": "Segmentation/teeth_mask/25.jpg"
+    },
+    {
+      "radiograph": "Radiographs/100.JPG",
+      "segmentation": "Segmentation/teeth_mask/100.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1041.JPG",
+      "segmentation": "Segmentation/teeth_mask/1041.jpg"
+    },
+    {
+      "radiograph": "Radiographs/334.JPG",
+      "segmentation": "Segmentation/teeth_mask/334.jpg"
+    },
+    {
+      "radiograph": "Radiographs/523.JPG",
+      "segmentation": "Segmentation/teeth_mask/523.jpg"
+    },
+    {
+      "radiograph": "Radiographs/291.JPG",
+      "segmentation": "Segmentation/teeth_mask/291.jpg"
+    },
+    {
+      "radiograph": "Radiographs/535.JPG",
+      "segmentation": "Segmentation/teeth_mask/535.jpg"
+    },
+    {
+      "radiograph": "Radiographs/900.JPG",
+      "segmentation": "Segmentation/teeth_mask/900.jpg"
+    },
+    {
+      "radiograph": "Radiographs/729.JPG",
+      "segmentation": "Segmentation/teeth_mask/729.jpg"
+    },
+    {
+      "radiograph": "Radiographs/897.JPG",
+      "segmentation": "Segmentation/teeth_mask/897.jpg"
+    },
+    {
+      "radiograph": "Radiographs/135.JPG",
+      "segmentation": "Segmentation/teeth_mask/135.jpg"
+    },
+    {
+      "radiograph": "Radiographs/914.JPG",
+      "segmentation": "Segmentation/teeth_mask/914.jpg"
+    },
+    {
+      "radiograph": "Radiographs/803.JPG",
+      "segmentation": "Segmentation/teeth_mask/803.jpg"
+    },
+    {
+      "radiograph": "Radiographs/537.JPG",
+      "segmentation": "Segmentation/teeth_mask/537.jpg"
+    },
+    {
+      "radiograph": "Radiographs/227.JPG",
+      "segmentation": "Segmentation/teeth_mask/227.jpg"
+    },
+    {
+      "radiograph": "Radiographs/85.JPG",
+      "segmentation": "Segmentation/teeth_mask/85.jpg"
+    },
+    {
+      "radiograph": "Radiographs/248.JPG",
+      "segmentation": "Segmentation/teeth_mask/248.jpg"
+    },
+    {
+      "radiograph": "Radiographs/778.JPG",
+      "segmentation": "Segmentation/teeth_mask/778.jpg"
+    },
+    {
+      "radiograph": "Radiographs/912.JPG",
+      "segmentation": "Segmentation/teeth_mask/912.jpg"
+    },
+    {
+      "radiograph": "Radiographs/337.JPG",
+      "segmentation": "Segmentation/teeth_mask/337.jpg"
+    },
+    {
+      "radiograph": "Radiographs/564.JPG",
+      "segmentation": "Segmentation/teeth_mask/564.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1027.JPG",
+      "segmentation": "Segmentation/teeth_mask/1027.jpg"
+    },
+    {
+      "radiograph": "Radiographs/711.JPG",
+      "segmentation": "Segmentation/teeth_mask/711.jpg"
+    },
+    {
+      "radiograph": "Radiographs/257.JPG",
+      "segmentation": "Segmentation/teeth_mask/257.jpg"
+    },
+    {
+      "radiograph": "Radiographs/459.JPG",
+      "segmentation": "Segmentation/teeth_mask/459.jpg"
+    },
+    {
+      "radiograph": "Radiographs/555.JPG",
+      "segmentation": "Segmentation/teeth_mask/555.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1038.JPG",
+      "segmentation": "Segmentation/teeth_mask/1038.jpg"
+    },
+    {
+      "radiograph": "Radiographs/93.JPG",
+      "segmentation": "Segmentation/teeth_mask/93.jpg"
+    },
+    {
+      "radiograph": "Radiographs/435.JPG",
+      "segmentation": "Segmentation/teeth_mask/435.jpg"
+    },
+    {
+      "radiograph": "Radiographs/628.JPG",
+      "segmentation": "Segmentation/teeth_mask/628.jpg"
+    },
+    {
+      "radiograph": "Radiographs/341.JPG",
+      "segmentation": "Segmentation/teeth_mask/341.jpg"
+    },
+    {
+      "radiograph": "Radiographs/855.JPG",
+      "segmentation": "Segmentation/teeth_mask/855.jpg"
+    },
+    {
+      "radiograph": "Radiographs/687.JPG",
+      "segmentation": "Segmentation/teeth_mask/687.jpg"
+    },
+    {
+      "radiograph": "Radiographs/327.JPG",
+      "segmentation": "Segmentation/teeth_mask/327.jpg"
+    },
+    {
+      "radiograph": "Radiographs/94.JPG",
+      "segmentation": "Segmentation/teeth_mask/94.jpg"
+    },
+    {
+      "radiograph": "Radiographs/944.JPG",
+      "segmentation": "Segmentation/teeth_mask/944.jpg"
+    },
+    {
+      "radiograph": "Radiographs/627.JPG",
+      "segmentation": "Segmentation/teeth_mask/627.jpg"
+    },
+    {
+      "radiograph": "Radiographs/958.JPG",
+      "segmentation": "Segmentation/teeth_mask/958.jpg"
+    },
+    {
+      "radiograph": "Radiographs/935.JPG",
+      "segmentation": "Segmentation/teeth_mask/935.jpg"
+    },
+    {
+      "radiograph": "Radiographs/746.JPG",
+      "segmentation": "Segmentation/teeth_mask/746.jpg"
+    },
+    {
+      "radiograph": "Radiographs/331.JPG",
+      "segmentation": "Segmentation/teeth_mask/331.jpg"
+    },
+    {
+      "radiograph": "Radiographs/554.JPG",
+      "segmentation": "Segmentation/teeth_mask/554.jpg"
+    },
+    {
+      "radiograph": "Radiographs/817.JPG",
+      "segmentation": "Segmentation/teeth_mask/817.jpg"
+    },
+    {
+      "radiograph": "Radiographs/275.JPG",
+      "segmentation": "Segmentation/teeth_mask/275.jpg"
+    },
+    {
+      "radiograph": "Radiographs/47.JPG",
+      "segmentation": "Segmentation/teeth_mask/47.jpg"
+    },
+    {
+      "radiograph": "Radiographs/1031.JPG",
+      "segmentation": "Segmentation/teeth_mask/1031.jpg"
+    },
+    {
+      "radiograph": "Radiographs/412.JPG",
+      "segmentation": "Segmentation/teeth_mask/412.jpg"
+    },
+    {
+      "radiograph": "Radiographs/828.JPG",
+      "segmentation": "Segmentation/teeth_mask/828.jpg"
+    },
+    {
+      "radiograph": "Radiographs/358.JPG",
+      "segmentation": "Segmentation/teeth_mask/358.jpg"
+    },
+    {
+      "radiograph": "Radiographs/585.JPG",
+      "segmentation": "Segmentation/teeth_mask/585.jpg"
+    },
+    {
+      "radiograph": "Radiographs/286.JPG",
+      "segmentation": "Segmentation/teeth_mask/286.jpg"
+    },
+    {
+      "radiograph": "Radiographs/201.JPG",
+      "segmentation": "Segmentation/teeth_mask/201.jpg"
+    },
+    {
+      "radiograph": "Radiographs/544.JPG",
+      "segmentation": "Segmentation/teeth_mask/544.jpg"
+    },
+    {
+      "radiograph": "Radiographs/452.JPG",
+      "segmentation": "Segmentation/teeth_mask/452.jpg"
+    },
+    {
+      "radiograph": "Radiographs/679.JPG",
+      "segmentation": "Segmentation/teeth_mask/679.jpg"
+    },
+    {
+      "radiograph": "Radiographs/246.JPG",
+      "segmentation": "Segmentation/teeth_mask/246.jpg"
+    },
+    {
+      "radiograph": "Radiographs/608.JPG",
+      "segmentation": "Segmentation/teeth_mask/608.jpg"
+    },
+    {
+      "radiograph": "Radiographs/366.JPG",
+      "segmentation": "Segmentation/teeth_mask/366.jpg"
+    },
+    {
+      "radiograph": "Radiographs/832.JPG",
+      "segmentation": "Segmentation/teeth_mask/832.jpg"
+    },
+    {
+      "radiograph": "Radiographs/719.JPG",
+      "segmentation": "Segmentation/teeth_mask/719.jpg"
+    },
+    {
+      "radiograph": "Radiographs/949.JPG",
+      "segmentation": "Segmentation/teeth_mask/949.jpg"
+    },
+    {
+      "radiograph": "Radiographs/543.JPG",
+      "segmentation": "Segmentation/teeth_mask/543.jpg"
+    },
+    {
+      "radiograph": "Radiographs/871.JPG",
+      "segmentation": "Segmentation/teeth_mask/871.jpg"
+    },
+    {
+      "radiograph": "Radiographs/844.JPG",
+      "segmentation": "Segmentation/teeth_mask/844.jpg"
+    },
+    {
+      "radiograph": "Radiographs/884.JPG",
+      "segmentation": "Segmentation/teeth_mask/884.jpg"
+    },
+    {
+      "radiograph": "Radiographs/398.JPG",
+      "segmentation": "Segmentation/teeth_mask/398.jpg"
+    },
+    {
+      "radiograph": "Radiographs/616.JPG",
+      "segmentation": "Segmentation/teeth_mask/616.jpg"
+    },
+    {
+      "radiograph": "Radiographs/8.JPG",
+      "segmentation": "Segmentation/teeth_mask/8.jpg"
+    },
+    {
+      "radiograph": "Radiographs/237.JPG",
+      "segmentation": "Segmentation/teeth_mask/237.jpg"
+    },
+    {
+      "radiograph": "Radiographs/125.JPG",
+      "segmentation": "Segmentation/teeth_mask/125.jpg"
+    },
+    {
+      "radiograph": "Radiographs/394.JPG",
+      "segmentation": "Segmentation/teeth_mask/394.jpg"
+    },
+    {
+      "radiograph": "Radiographs/81.JPG",
+      "segmentation": "Segmentation/teeth_mask/81.jpg"
+    },
+    {
+      "radiograph": "Radiographs/906.JPG",
+      "segmentation": "Segmentation/teeth_mask/906.jpg"
+    },
+    {
+      "radiograph": "Radiographs/922.JPG",
+      "segmentation": "Segmentation/teeth_mask/922.jpg"
+    },
+    {
+      "radiograph": "Radiographs/942.JPG",
+      "segmentation": "Segmentation/teeth_mask/942.jpg"
+    },
+    {
+      "radiograph": "Radiographs/370.JPG",
+      "segmentation": "Segmentation/teeth_mask/370.jpg"
+    },
+    {
+      "radiograph": "Radiographs/742.JPG",
+      "segmentation": "Segmentation/teeth_mask/742.jpg"
+    },
+    {
+      "radiograph": "Radiographs/433.JPG",
+      "segmentation": "Segmentation/teeth_mask/433.jpg"
+    },
+    {
+      "radiograph": "Radiographs/495.JPG",
+      "segmentation": "Segmentation/teeth_mask/495.jpg"
+    },
+    {
+      "radiograph": "Radiographs/430.JPG",
+      "segmentation": "Segmentation/teeth_mask/430.jpg"
+    },
+    {
+      "radiograph": "Radiographs/353.JPG",
+      "segmentation": "Segmentation/teeth_mask/353.jpg"
+    },
+    {
+      "radiograph": "Radiographs/7.JPG",
+      "segmentation": "Segmentation/teeth_mask/7.jpg"
+    },
+    {
+      "radiograph": "Radiographs/759.JPG",
+      "segmentation": "Segmentation/teeth_mask/759.jpg"
+    },
+    {
+      "radiograph": "Radiographs/923.JPG",
+      "segmentation": "Segmentation/teeth_mask/923.jpg"
+    },
+    {
+      "radiograph": "Radiographs/493.JPG",
+      "segmentation": "Segmentation/teeth_mask/493.jpg"
+    },
+    {
+      "radiograph": "Radiographs/55.JPG",
+      "segmentation": "Segmentation/teeth_mask/55.jpg"
+    },
+    {
+      "radiograph": "Radiographs/65.JPG",
+      "segmentation": "Segmentation/teeth_mask/65.jpg"
+    },
+    {
+      "radiograph": "Radiographs/52.JPG",
+      "segmentation": "Segmentation/teeth_mask/52.jpg"
+    },
+    {
+      "radiograph": "Radiographs/243.JPG",
+      "segmentation": "Segmentation/teeth_mask/243.jpg"
+    },
+    {
+      "radiograph": "Radiographs/30.JPG",
+      "segmentation": "Segmentation/teeth_mask/30.jpg"
+    },
+    {
+      "radiograph": "Radiographs/710.JPG",
+      "segmentation": "Segmentation/teeth_mask/710.jpg"
+    },
+    {
+      "radiograph": "Radiographs/754.JPG",
+      "segmentation": "Segmentation/teeth_mask/754.jpg"
+    },
+    {
+      "radiograph": "Radiographs/60.JPG",
+      "segmentation": "Segmentation/teeth_mask/60.jpg"
+    },
+    {
+      "radiograph": "Radiographs/209.JPG",
+      "segmentation": "Segmentation/teeth_mask/209.jpg"
+    },
+    {
+      "radiograph": "Radiographs/632.JPG",
+      "segmentation": "Segmentation/teeth_mask/632.jpg"
+    },
+    {
+      "radiograph": "Radiographs/43.JPG",
+      "segmentation": "Segmentation/teeth_mask/43.jpg"
+    },
+    {
+      "radiograph": "Radiographs/967.JPG",
+      "segmentation": "Segmentation/teeth_mask/967.jpg"
+    },
+    {
+      "radiograph": "Radiographs/706.JPG",
+      "segmentation": "Segmentation/teeth_mask/706.jpg"
+    },
+    {
+      "radiograph": "Radiographs/4.JPG",
+      "segmentation": "Segmentation/teeth_mask/4.jpg"
+    },
+    {
+      "radiograph": "Radiographs/825.JPG",
+      "segmentation": "Segmentation/teeth_mask/825.jpg"
+    },
+    {
+      "radiograph": "Radiographs/438.JPG",
+      "segmentation": "Segmentation/teeth_mask/438.jpg"
+    },
+    {
+      "radiograph": "Radiographs/15.JPG",
+      "segmentation": "Segmentation/teeth_mask/15.jpg"
+    },
+    {
+      "radiograph": "Radiographs/92.JPG",
+      "segmentation": "Segmentation/teeth_mask/92.jpg"
+    },
+    {
+      "radiograph": "Radiographs/519.JPG",
+      "segmentation": "Segmentation/teeth_mask/519.jpg"
+    },
+    {
+      "radiograph": "Radiographs/484.JPG",
+      "segmentation": "Segmentation/teeth_mask/484.jpg"
+    },
+    {
+      "radiograph": "Radiographs/295.JPG",
+      "segmentation": "Segmentation/teeth_mask/295.jpg"
+    },
+    {
+      "radiograph": "Radiographs/672.JPG",
+      "segmentation": "Segmentation/teeth_mask/672.jpg"
+    },
+    {
+      "radiograph": "Radiographs/781.JPG",
+      "segmentation": "Segmentation/teeth_mask/781.jpg"
+    },
+    {
+      "radiograph": "Radiographs/69.JPG",
+      "segmentation": "Segmentation/teeth_mask/69.jpg"
+    },
+    {
+      "radiograph": "Radiographs/184.JPG",
+      "segmentation": "Segmentation/teeth_mask/184.jpg"
+    },
+    {
+      "radiograph": "Radiographs/655.JPG",
+      "segmentation": "Segmentation/teeth_mask/655.jpg"
+    },
+    {
+      "radiograph": "Radiographs/990.JPG",
+      "segmentation": "Segmentation/teeth_mask/990.jpg"
+    },
+    {
+      "radiograph": "Radiographs/381.JPG",
+      "segmentation": "Segmentation/teeth_mask/381.jpg"
+    },
+    {
+      "radiograph": "Radiographs/350.JPG",
+      "segmentation": "Segmentation/teeth_mask/350.jpg"
+    },
+    {
+      "radiograph": "Radiographs/190.JPG",
+      "segmentation": "Segmentation/teeth_mask/190.jpg"
+    },
+    {
+      "radiograph": "Radiographs/146.JPG",
+      "segmentation": "Segmentation/teeth_mask/146.jpg"
+    },
+    {
+      "radiograph": "Radiographs/368.JPG",
+      "segmentation": "Segmentation/teeth_mask/368.jpg"
+    },
+    {
+      "radiograph": "Radiographs/505.JPG",
+      "segmentation": "Segmentation/teeth_mask/505.jpg"
+    },
+    {
+      "radiograph": "Radiographs/980.JPG",
+      "segmentation": "Segmentation/teeth_mask/980.jpg"
+    },
+    {
+      "radiograph": "Radiographs/857.JPG",
+      "segmentation": "Segmentation/teeth_mask/857.jpg"
+    },
+    {
+      "radiograph": "Radiographs/898.JPG",
+      "segmentation": "Segmentation/teeth_mask/898.jpg"
+    },
+    {
+      "radiograph": "Radiographs/413.JPG",
+      "segmentation": "Segmentation/teeth_mask/413.jpg"
+    },
+    {
+      "radiograph": "Radiographs/228.JPG",
+      "segmentation": "Segmentation/teeth_mask/228.jpg"
+    },
+    {
+      "radiograph": "Radiographs/103.JPG",
+      "segmentation": "Segmentation/teeth_mask/103.jpg"
+    },
+    {
+      "radiograph": "Radiographs/389.JPG",
+      "segmentation": "Segmentation/teeth_mask/389.jpg"
+    },
+    {
+      "radiograph": "Radiographs/529.JPG",
+      "segmentation": "Segmentation/teeth_mask/529.jpg"
+    },
+    {
+      "radiograph": "Radiographs/504.JPG",
+      "segmentation": "Segmentation/teeth_mask/504.jpg"
+    },
+    {
+      "radiograph": "Radiographs/637.JPG",
+      "segmentation": "Segmentation/teeth_mask/637.jpg"
+    },
+    {
+      "radiograph": "Radiographs/714.JPG",
+      "segmentation": "Segmentation/teeth_mask/714.jpg"
+    },
+    {
+      "radiograph": "Radiographs/11.JPG",
+      "segmentation": "Segmentation/teeth_mask/11.jpg"
+    },
+    {
+      "radiograph": "Radiographs/258.JPG",
+      "segmentation": "Segmentation/teeth_mask/258.jpg"
+    },
+    {
+      "radiograph": "Radiographs/42.JPG",
+      "segmentation": "Segmentation/teeth_mask/42.jpg"
+    }
+  ]
+}
